@@ -1,0 +1,712 @@
+Name;Platform;Year_of_Release;Genre;Publisher;Global_Sales;Critic_Score;Critic_Count;User_Score;User_Count;Developer;Rating
+Half-Life;PC;1997;Shooter;Vivendi Games;4.12;96;24;9.1;3161;Valve Software;M
+Half-Life 2;PC;2004;Shooter;Vivendi Games;2.37;96;81;9.1;8665;Valve Software;M
+Grand Theft Auto V;PC;2015;Action;Take-Two Interactive;1.17;96;57;7.9;3756;Rockstar North;M
+BioShock;PC;2007;Shooter;Take-Two Interactive;0.41;96;44;8.5;3606;Irrational Games, 2K Marin;M
+The Orange Box;PC;2007;Shooter;Electronic Arts;0.14;96;34;9.3;1495;Valve Software;M
+Portal 2;PC;2011;Shooter;Valve Software;0.76;95;52;8.8;5999;Valve Software;E10+
+The Elder Scrolls V: Skyrim;PC;2011;Role-Playing;Bethesda Softworks;3.88;94;32;8.1;9073;Bethesda Game Studios;M
+Diablo;PC;1996;Role-Playing;Activision;1.59;94;12;8.7;850;Blizzard Entertainment;M
+BioShock Infinite;PC;2013;Shooter;Take-Two Interactive;0.66;94;68;8.5;7322;Irrational Games;M
+Mass Effect 2;PC;2010;Role-Playing;Electronic Arts;0.39;94;55;8.8;3559;BioWare;M
+The Elder Scrolls IV: Oblivion;PC;2006;Role-Playing;Take-Two Interactive;0.25;94;54;8.1;2454;Bethesda Softworks;M
+Sid Meier's Civilization IV;PC;2005;Strategy;Take-Two Interactive;0.16;94;50;8.3;909;Firaxis Games;E10+
+Grand Theft Auto: Vice City;PC;2003;Action;Take-Two Interactive;0.04;94;30;8.8;1520;Rockstar North;M
+World of Warcraft;PC;2004;Role-Playing;Activision;6.29;93;57;7.3;2182;Blizzard Entertainment;T
+StarCraft II: Wings of Liberty;PC;2010;Strategy;Activision;4.84;93;82;8.2;3052;Blizzard Entertainment;T
+Grand Theft Auto: San Andreas;PC;2005;Action;Take-Two Interactive;0.97;93;47;8.9;1841;Rockstar North;M
+The Witcher 3: Wild Hunt;PC;2015;Role-Playing;Namco Bandai Games;0.72;93;32;9.3;10665;CD Projekt Red Studio;M
+Star Wars: Knights of the Old Republic;PC;2003;Role-Playing;LucasArts;0.14;93;33;9;1497;BioWare;T
+Company of Heroes;PC;2006;Strategy;THQ;0.05;93;55;8.8;1128;Relic;M
+Homeworld;PC;1998;Strategy;Vivendi Games;0.02;93;20;9;326;Relic;E
+Unreal Tournament 2004;PC;2004;Shooter;Atari;0.02;93;48;8.9;537;Epic Games;M
+Grand Theft Auto III;PC;2002;Action;Take-Two Interactive;0.01;93;20;8.4;805;DMA Design, Rockstar North;M
+Call of Duty 4: Modern Warfare;PC;2007;Shooter;Activision;1.15;92;40;8.5;2360;Infinity Ward;M
+Warcraft III: Reign of Chaos;PC;2002;Strategy;Vivendi Games;0.13;92;40;9.1;1023;Blizzard Entertainment;T
+Rome: Total War;PC;2004;Strategy;Activision;0.1;92;58;9.1;1050;Creative Assembly;T
+Age of Empires II: The Age of Kings;PC;1999;Strategy;Microsoft Game Studios;0.09;92;21;9;801;Ensemble Studios;T
+The Sims;PC;2000;Simulation;Electronic Arts;0.05;92;38;7.9;451;Maxis;T
+The Sims Deluxe;PC;2002;Simulation;Electronic Arts;0.04;92;6;8.2;77;Maxis;T
+World of Warcraft: The Burning Crusade;PC;2007;Role-Playing;Activision;4.09;91;46;7.9;785;Blizzard Entertainment;T
+World of Warcraft: Wrath of the Lich King;PC;2008;Role-Playing;Activision;1.32;91;47;7.5;930;Blizzard Entertainment;T
+Fallout 3;PC;2008;Role-Playing;Bethesda Softworks;0.98;91;48;7.9;3450;Bethesda Game Studios;M
+Crysis;PC;2007;Shooter;Electronic Arts;0.71;91;56;8;1970;Crytek;M
+Overwatch;PC;2016;Shooter;Activision;0.53;91;62;6.8;4052;Blizzard Entertainment;T
+Batman: Arkham City;PC;2011;Action;Warner Bros. Interactive Entertainment;0.53;91;27;8.6;1847;Rocksteady Studios;T
+Dragon Age: Origins;PC;2009;Role-Playing;Electronic Arts;0.51;91;67;8.6;3542;BioWare;M
+Batman: Arkham Asylum;PC;2009;Action;Eidos Interactive;0.32;91;29;8.7;1736;Rocksteady Studios;T
+Dark Souls II;PC;2014;Role-Playing;Namco Bandai Games;0.17;91;36;7.1;2318;From Software;T
+Street Fighter IV;PC;N/A;Fighting;Capcom;0.13;91;23;8;352;Capcom;T
+Battlefield 2;PC;2005;Shooter;Electronic Arts;0.08;91;55;8.4;837;Digital Illusions;T
+Metal Gear Solid V: The Phantom Pain;PC;2015;Action;Konami Digital Entertainment;0.08;91;13;7.7;1963;Kojima Productions;M
+Planescape: Torment;PC;1998;Role-Playing;Interplay;0.03;91;22;9.2;813;Black Isle Studios;T
+Neverwinter Nights;PC;2002;Role-Playing;Atari;0.03;91;34;8.2;490;BioWare;T
+The Longest Journey;PC;1999;Adventure;Empire Interactive;0.02;91;26;8.9;439;Funcom;M
+IL-2 Sturmovik;PC;2001;Simulation;Blue Byte;0.01;91;12;8.8;130;1C, 1C Company;T
+Tiger Woods PGA Tour 2005;PC;2004;Sports;Electronic Arts;0.01;91;16;4.5;39;Headgate;E
+Guild Wars 2;PC;2012;Action;NCSoft;2.31;90;69;7.9;2954;ArenaNet;T
+World of Warcraft: Cataclysm;PC;2010;Role-Playing;Activision;2.08;90;53;5.6;953;Blizzard Entertainment;T
+Sid Meier's Civilization V;PC;2010;Strategy;Take-Two Interactive;1.68;90;70;7.9;2280;Firaxis Games;E10+
+Empire: Total War;PC;2009;Strategy;Sega;1.08;90;62;6.9;2981;Creative Assembly;T
+Grand Theft Auto IV;PC;2008;Action;Take-Two Interactive;0.88;90;40;6.6;2299;Rockstar Toronto;M
+Total War: Shogun 2;PC;2011;Strategy;Sega;0.6;90;62;8.3;1180;Creative Assembly;T
+Deus Ex: Human Revolution;PC;2011;Shooter;Square Enix;0.58;90;52;8.5;3069;Nixxes Software;M
+The Sims 2;PC;2004;Simulation;Electronic Arts;0.29;90;61;8.8;676;Maxis;T
+Silent Hunter III;PC;2005;Simulation;Ubisoft;0.08;90;23;7.9;95;Ubisoft;T
+World of Goo;PC;2008;Puzzle;2D Boy;0.04;90;26;8.5;607;2D Boy;E
+NBA 2K13;PC;2012;Sports;Take-Two Interactive;0.03;90;5;6.8;130;Visual Concepts;E
+Braid;PC;2009;Platform;Number None;0.03;90;11;8.6;819;Number None Inc., Knockout Games;E10+
+Falcon 4.0: Allied Force;PC;2005;Simulation;Graphsim Entertainment;0.02;90;7;8.6;37;Lead Pursuit;T
+NBA 2K17;PC;2016;Sports;Take-Two Interactive;0.01;90;6;6.3;52;Visual Concepts;E
+Deus Ex;PC;2000;Role-Playing;Eidos Interactive;0.01;90;28;9.3;1069;Ion Storm;M
+Battlefield 3;PC;2011;Shooter;Electronic Arts;2.78;89;61;7.5;4926;EA DICE;M
+Mass Effect 3;PC;2012;Role-Playing;Electronic Arts;0.97;89;23;5.5;5926;BioWare;M
+Borderlands 2;PC;2012;Shooter;Take-Two Interactive;0.93;89;38;8.2;2482;Gearbox Software;M
+XCOM: Enemy Unknown;PC;2012;Strategy;Take-Two Interactive;0.71;89;57;8.2;2235;Firaxis Games;M
+Mass Effect;PC;2008;Role-Playing;Electronic Arts;0.67;89;45;8.6;2386;BioWare, Demiurge Studios;M
+Left 4 Dead 2;PC;2009;Shooter;Valve Software;0.36;89;55;8.5;2530;Valve Software;M
+Age of Mythology;PC;2002;Strategy;Microsoft Game Studios;0.09;89;31;8.9;484;Ensemble Studios;T
+Dark Souls III;PC;2016;Role-Playing;Namco Bandai Games;0.07;89;56;8.6;1848;From Software;M
+DiRT 2;PC;2009;Racing;Codemasters;0.05;89;22;8.2;352;Codemasters;T
+Far Cry;PC;2004;Shooter;Ubisoft;0.05;89;72;8.1;724;Crytek;M
+Rise of Nations;PC;2003;Strategy;Microsoft Game Studios;0.04;89;30;9;274;Big Huge Games;T
+World in Conflict;PC;2007;Strategy;Vivendi Games;0.04;89;44;8.1;301;Massive Entertainment;T
+Guild Wars;PC;2005;Role-Playing;NCSoft;0.03;89;53;8.4;455;ArenaNet;T
+Battlefield 1942;PC;2002;Shooter;Electronic Arts;0.03;89;27;8.6;327;Digital Illusions;T
+Left 4 Dead;PC;2008;Shooter;Electronic Arts;0.02;89;58;9.2;3717;Valve Software;M
+Max Payne;PC;2001;Shooter;Take-Two Interactive;0.02;89;32;9.1;1016;Remedy Entertainment;M
+Pillars of Eternity;PC;2014;Role-Playing;Paradox Interactive;0.02;89;71;8.3;2191;Obsidian Entertainment;M
+Worldwide Soccer Manager 2006;PC;2004;Sports;Sega;0.02;89;20;;;Sports Interactive;E
+Diablo III;PC;2012;Role-Playing;Activision;5.14;88;86;4;9629;Blizzard Entertainment;M
+Warcraft III: The Frozen Throne;PC;2003;Strategy;Activision;1.54;88;23;9;713;Blizzard Entertainment;T
+Far Cry 3;PC;2012;Shooter;Ubisoft;0.96;88;43;8.2;3183;Ubisoft Montreal;M
+The Witcher 2: Assassins of Kings;PC;2011;Action;Namco Bandai Games;0.96;88;76;8.5;4378;CD Projekt Red Studio;M
+Assassin's Creed: Brotherhood;PC;2011;Action;Ubisoft;0.59;88;24;8.2;1102;Ubisoft Montreal;M
+StarCraft II: Legacy of the Void;PC;2015;Strategy;Activision;0.53;88;62;8.3;833;Blizzard Entertainment;T
+Battlefield 1;PC;2016;Shooter;Electronic Arts;0.38;88;54;7.6;1137;EA DICE;M
+World of Warcraft: Legion;PC;2016;Role-Playing;Activision;0.32;88;62;7.5;535;Blizzard Entertainment;T
+Sid Meier's Civilization VI;PC;2016;Strategy;Take-Two Interactive;0.25;88;81;7.3;684;Firaxis Games;E10+
+BioShock 2;PC;N/A;Shooter;Take-Two Interactive;0.24;88;36;8;1247;2K Marin;M
+XCOM 2;PC;2016;Strategy;Take-Two Interactive;0.23;88;104;7.1;1221;Firaxis Games;T
+Diablo II;PC;2000;Role-Playing;Havas Interactive;0.13;88;34;8.8;1056;Blizzard North;M
+Medieval II: Total War;PC;2006;Strategy;Sega;0.1;88;39;8.9;648;Creative Assembly;T
+Counter-Strike: Source;PC;2004;Shooter;Vivendi Games;0.08;88;9;8.9;9851;Valve Software;M
+Microsoft Flight Simulator 2004: A Century of Flight;PC;2003;Simulation;Microsoft Game Studios;0.07;88;22;8.2;49;Microsoft Game Studios;E
+StarCraft;PC;1998;Strategy;Activision;0.05;88;15;9.1;813;Blizzard Entertainment;T
+Mafia;PC;2002;Action;Take-Two Interactive;0.04;88;27;9.1;863;Illusion Softworks;M
+Winning Eleven: Pro Evolution Soccer 2007;PC;2006;Sports;Konami Digital Entertainment;0.01;88;6;;;KCET;E
+Diablo II: Lord of Destruction;PC;2001;Role-Playing;Vivendi Games;1.06;87;21;9.1;639;Blizzard North;M
+Battlefield: Bad Company 2;PC;2010;Shooter;Electronic Arts;0.72;87;46;8.3;1467;EA DICE;M
+World of Warcraft: Warlords of Draenor;PC;2014;Action;Activision Blizzard;0.47;87;49;5.9;1154;Blizzard Entertainment;T
+Max Payne 3;PC;2012;Shooter;Take-Two Interactive;0.43;87;30;7.6;2202;Rockstar Studios;M
+FIFA 14;PC;2013;Sports;Electronic Arts;0.4;87;6;4.6;441;EA Canada;E
+Dead Space 2;PC;2011;Shooter;Electronic Arts;0.32;87;28;8.3;974;Visceral Games;M
+Doom 3;PC;2004;Shooter;Activision;0.1;87;83;7.6;896;id Software;M
+Burnout Paradise: The Ultimate Box;PC;2009;Racing;Electronic Arts;0.09;87;26;7.5;435;Criterion Games;E10+
+Football Manager 2010;PC;2009;Sports;Sega;0.07;87;33;9;262;Sports Interactive;E
+Plants vs. Zombies;PC;2009;Strategy;PopCap Games;0.05;87;41;8.9;891;PopCap;E10+
+GRID;PC;N/A;Racing;Codemasters;0.04;87;25;7.9;463;Codemasters;E
+Company of Heroes: Opposing Fronts;PC;2007;Strategy;THQ;0.04;87;36;8.6;235;Relic;M
+Sins of a Solar Empire;PC;2008;Strategy;Pinnacle;0.03;87;52;8.2;275;Ironclad Games;T
+Worldwide Soccer Manager 2007;PC;2006;Sports;Sega;0.02;87;17;;;Sports Interactive;E
+Divinity: Original Sin;PC;2014;Role-Playing;Focus Home Interactive;0.02;87;59;8.7;2089;Larian Studios;M
+Gears of War;PC;2007;Shooter;Microsoft Game Studios;0.02;87;36;7.8;567;Epic Games;M
+Colin McRae Rally 04;PC;2004;Racing;Codemasters;0.01;87;6;7.2;44;Codemasters;
+The Sims 3;PC;2009;Simulation;Electronic Arts;8.01;86;75;7.6;886;The Sims Studio;T
+StarCraft II: Heart of the Swarm;PC;2013;Strategy;Activision;1.67;86;68;7.9;1346;Blizzard Entertainment;T
+Football Manager 2013;PC;2012;Sports;Sega;1.15;86;37;6.7;228;Sports Interactive;
+Worldwide Soccer Manager 2008;PC;2007;Sports;Russel;1.12;86;15;8;19;Sports Interactive;E
+Tomb Raider;PC;1996;Action;Eidos Interactive;1.03;86;18;8.5;3552;Crystal Dynamics, Nixxes Software;M
+Call of Duty: Modern Warfare 2;PC;2009;Shooter;Activision;0.88;86;40;4.2;6430;Infinity Ward;M
+Crysis 2;PC;2011;Action;Electronic Arts;0.74;86;42;6.8;1594;Crytek;M
+Dead Space;PC;2008;Action;Electronic Arts;0.59;86;28;8;1093;EA Redwood Shores;M
+Titanfall;PC;2014;Shooter;Electronic Arts;0.56;86;29;6.2;1727;Respawn Entertainment;M
+Assassin's Creed II;PC;2010;Action;Ubisoft;0.55;86;22;6.9;1611;Ubisoft Montreal;M
+FIFA Soccer 13;PC;2012;Action;Electronic Arts;0.4;86;7;6.6;286;Electronic Arts;E
+Need for Speed: Hot Pursuit;PC;2010;Racing;Electronic Arts;0.37;86;14;6.7;556;Criterion Games;E10+
+Tomb Raider (2013);PC;N/A;Action;Square Enix;0.35;86;18;8.5;3552;Crystal Dynamics, Nixxes Software;M
+The Witcher: Enhanced Edition;PC;2008;Role-Playing;Atari;0.32;86;30;8.5;1660;CD Projekt Red Studio;M
+Saints Row IV;PC;2013;Action;Deep Silver;0.19;86;45;7.4;1543;Volition Inc.;M
+NBA 2K12;PC;2011;Sports;Take-Two Interactive;0.16;86;5;7.1;66;Visual Concepts;E
+DiRT 3;PC;2011;Racing;Codemasters;0.15;86;23;6.9;433;Codemasters;T
+Total War: WARHAMMER;PC;2016;Strategy;Sega;0.13;86;77;7.3;556;Creative Assembly;T
+Rise of the Tomb Raider;PC;2016;Adventure;Square Enix;0.12;86;45;7.9;915;Crystal Dynamics, Nixxes Software;M
+Dishonored 2;PC;2016;Action;Bethesda Softworks;0.12;86;37;6;383;Arkane Studios;M
+Rayman Origins;PC;2012;Platform;Ubisoft;0.08;86;11;8.4;337;UBlart Montpellier;E10+
+Resident Evil 5;PC;2009;Action;Capcom;0.07;86;30;7.1;597;Capcom;M
+Call of Duty 2;PC;2005;Shooter;Activision;0.06;86;64;8.4;626;Infinity Ward;T
+Rocket League;PC;2016;Sports;505 Games;0.06;86;20;8.2;580;Psyonix;E
+Supreme Commander;PC;2007;Strategy;THQ;0.05;86;44;8.3;263;Gas Powered Games;E10+
+IL-2 Sturmovik: 1946;PC;2006;Simulation;Ubisoft;0.04;86;9;8.8;115;1C: Maddox Games;T
+DiRT Rally;PC;2016;Racing;Codemasters;0.03;86;33;8.7;288;Codemasters;E
+Max Payne 2: The Fall of Max Payne;PC;2003;Shooter;Take-Two Interactive;0.03;86;46;9;802;Remedy Entertainment;M
+Final Fantasy XIV: Heavensward;PC;2015;Action;Square Enix;0.02;86;14;7.7;255;Square Enix;T
+Warhammer Online: Age of Reckoning;PC;2008;Role-Playing;GOA;0.02;86;54;7.9;374;EA Mythic;T
+IL-2 Sturmovik: Forgotten Battles;PC;2003;Simulation;Ubisoft;0.02;86;12;8.6;38;1C, 1C Company;T
+LEGO Star Wars II: The Original Trilogy;PC;2006;Action;Activision;0.02;86;20;8.2;64;Traveller's Tales;E10+
+Unreal Tournament 2003;PC;2002;Shooter;Atari;0.01;86;27;8.2;98;Digital Extremes;M
+Homeworld Remastered Collection;PC;N/A;Strategy;N/A;0.01;86;49;8.2;324;Gearbox Software;E10+
+Star Wars: The Old Republic;PC;2011;Role-Playing;Electronic Arts;2.96;85;73;5.9;2748;LucasArts, BioWare;T
+The Sims: Hot Date;PC;2001;Simulation;Electronic Arts;1.82;85;17;7.9;70;Maxis;T
+Football Manager 2011;PC;2010;Sports;Sega;1.26;85;23;8.4;77;Sports Interactive;E
+Dragon Age: Inquisition;PC;2014;Role-Playing;Electronic Arts;0.73;85;45;5.9;3926;BioWare;M
+Football Manager 2014;PC;2013;Sports;Sega;0.64;85;41;5.5;275;Sports Interactive;E
+Far Cry 2;PC;2008;Action;Ubisoft;0.48;85;34;5.8;1345;Ubisoft Montreal;M
+South Park: The Stick of Truth;PC;2014;Role-Playing;Ubisoft;0.19;85;48;8.6;1739;Obsidian Entertainment;M
+Cities: Skylines;PC;2015;Simulation;Paradox Interactive;0.14;85;60;8.9;1404;Colossal Order;E
+Machinarium;PC;2009;Adventure;Daedalic;0.11;85;47;8.8;526;Amanita Design;
+Titanfall 2;PC;2016;Shooter;Electronic Arts;0.08;85;27;8;488;Respawn Entertainment;M
+Freelancer;PC;2003;Simulation;Microsoft Game Studios;0.05;85;39;9;185;Digital Anvil;T
+Doom;PC;1992;Shooter;id Software;0.03;85;44;8.2;1796;id Software;M
+SWAT 4;PC;2005;Shooter;Vivendi Games;0.03;85;49;8.6;224;Irrational Games;M
+Indigo Prophecy;PC;2005;Adventure;Atari;0.02;85;41;8.3;375;Quantic Dream;M
+The Lord of the Rings Online: Mines of Moria;PC;2008;Role-Playing;Codemasters Online;0.02;85;24;8.2;99;Turbine Inc.;T
+Football Manager 2012;PC;2011;Sports;Sega;1.51;84;45;8;172;Sports Interactive;E
+Fallout 4;PC;2015;Role-Playing;Bethesda Softworks;1.29;84;38;5.4;7512;Bethesda Game Studios;M
+Fallout: New Vegas;PC;2010;Role-Playing;Bethesda Softworks;1.17;84;39;8.6;2754;Obsidian Entertainment;M
+Spore;PC;2008;Strategy;Electronic Arts;1.17;84;75;5.3;1711;Maxis;E10+
+RIFT;PC;2011;Role-Playing;Unknown;0.67;84;59;7.3;561;Trion Worlds;T
+Assassin's Creed IV: Black Flag;PC;2013;Action;Ubisoft;0.64;84;10;7.7;1470;Ubisoft;M
+Saints Row: The Third;PC;2011;Action;THQ;0.38;84;22;8.1;1263;Volition Inc.;M
+Middle-Earth: Shadow of Mordor;PC;2014;Action;Warner Bros. Interactive Entertainment;0.35;84;17;8;1671;Monolith Productions;M
+SimCity 4;PC;2003;Simulation;Electronic Arts;0.29;84;36;8.7;268;Maxis;E
+Just Cause 2;PC;2010;Action;Square Enix;0.12;84;33;7.7;838;Avalanche Studios;M
+FIFA 17;PC;2016;Sports;Electronic Arts;0.12;84;12;4.2;160;EA Sports, EA Vancouver;E
+F1 2010;PC;2010;Racing;Codemasters;0.05;84;15;6.6;99;Codemasters Birmingham;E
+Microsoft Train Simulator;PC;2001;Simulation;Microsoft Game Studios;0.05;84;16;8.4;21;Kuju Entertainment;E
+Age of Mythology: The Titans;PC;2003;Strategy;Microsoft Game Studios;0.04;84;25;8.7;119;Ensemble Studios;T
+The Movies;PC;2005;Simulation;Activision;0.04;84;62;8.3;131;Lionhead Studios;T
+Trine 2;PC;2011;Platform;Focus Home Interactive;0.04;84;55;8.4;667;Frozenbyte, Inc.;E10+
+Rise of Nations: Rise of Legends;PC;2006;Strategy;Microsoft Game Studios;0.03;84;46;8.5;108;Big Huge Games;T
+The Binding of Isaac;PC;2012;Action;Unknown;0.03;84;30;8.3;1010;Edmund McMillen, Florian Himsl;
+Battlefield Vietnam;PC;2004;Shooter;Electronic Arts;0.03;84;48;7.5;133;Digital Illusions;T
+Guild Wars: Nightfall;PC;2006;Role-Playing;NCSoft;0.03;84;30;8.7;104;ArenaNet;T
+DiRT;PC;2007;Racing;Codemasters;0.02;84;20;7.3;91;Codemasters;E
+GT Legends;PC;2005;Racing;Atari;0.02;84;21;8.6;44;SimBin;E
+The Lord of the Rings: The Battle for Middle-Earth II;PC;2006;Strategy;Electronic Arts;0.02;84;36;7.5;366;EA LA;T
+TOCA Race Driver 3;PC;2006;Racing;Codemasters;0.02;84;16;7.8;53;Codemasters;E10+
+Crysis: Warhead;PC;2008;Shooter;Electronic Arts;0.02;84;56;7.9;516;Crytek;M
+Enemy Territory: Quake Wars;PC;2007;Shooter;Activision;0.02;84;55;8.3;231;Splash Damage;T
+Guild Wars: Factions;PC;2006;Role-Playing;NCSoft;0.01;84;39;8.5;128;ArenaNet;T
+Riven: The Sequel to Myst;PC;1997;Adventure;Red Orb;2.43;83;12;;;Cyan Worlds;E
+Anno 2070;PC;2011;Strategy;Ubisoft;1.43;83;33;7;493;Blue Byte, Related Designs;T
+Worldwide Soccer Manager 2009;PC;2008;Simulation;Sega;1.15;83;29;8.1;30;Sports Interactive;E
+L.A. Noire: The Complete Edition;PC;2011;Adventure;Take-Two Interactive;0.25;83;28;7.9;903;Rockstar Leeds;M
+F1 2011;PC;2011;Racing;Codemasters;0.19;83;10;7.2;83;Codemasters;E
+Call of Duty: World at War;PC;2008;Shooter;Activision;0.18;83;36;7.5;721;Treyarch;M
+FIFA Soccer 11;PC;2010;Sports;Electronic Arts;0.18;83;16;7.7;102;EA Sports;E
+Darksiders;PC;2010;Action;THQ;0.15;83;18;7.8;603;Vigil Games;M
+Terraria;PC;2011;Action;Unknown;0.14;83;29;8.5;1613;Re-Logic;T
+Project CARS;PC;2015;Racing;Slightly Mad Studios;0.13;83;48;7.1;418;Slightly Mad Studios;E
+Tom Clancy's Splinter Cell: Conviction;PC;2010;Action;Ubisoft;0.11;83;20;5.2;672;Ubisoft Montreal;M
+Torchlight;PC;2009;Role-Playing;JoWood Productions;0.07;83;57;8;794;Runic Games;T
+Fable: The Lost Chapters;PC;2005;Role-Playing;Microsoft Game Studios;0.07;83;54;8.7;489;Lionhead Studios;M
+Alan Wake;PC;2012;Action;Nordic Games;0.06;83;30;8;1473;Remedy Entertainment;T
+Unreal Tournament III;PC;2007;Shooter;Midway Games;0.06;83;41;8;523;Epic Games;M
+Need for Speed: Shift;PC;2009;Racing;Electronic Arts;0.06;83;22;5.8;387;Slightly Mad Studios;E
+Hearts of Iron IV;PC;2016;Strategy;Paradox Interactive;0.05;83;36;6.9;306;Paradox Development Studio;
+Life is Strange;PC;2016;Adventure;Square Enix;0.04;83;15;8.6;1620;DONTNOD Entertainment;M
+Halo: Combat Evolved;PC;2003;Shooter;Microsoft Game Studios;0.04;83;40;7.4;396;Gearbox Software;M
+Tomb Raider: Anniversary;PC;2007;Action;Eidos Interactive;0.03;83;26;8.1;242;Nixxes Software;T
+Deus Ex: Mankind Divided;PC;2016;Role-Playing;Square Enix;0.03;83;55;6.1;684;Eidos Montreal, Nixxes Software;M
+Homeworld 2;PC;2003;Strategy;Vivendi Games;0.03;83;31;8.3;128;Relic;T
+GTR Evolution;PC;2008;Racing;Atari;0.03;83;19;8.2;63;SimBin;E
+Age of Conan: Rise of the Godslayer;PC;2010;Role-Playing;Funcom;0.03;83;14;8.4;52;Funcom;M
+Colin McRae Rally 2005;PC;2004;Racing;Codemasters;0.02;83;11;7.1;50;Codemasters;E
+Icewind Dale II;PC;2002;Role-Playing;Interplay;0.01;83;22;8.3;147;Black Isle Studios;T
+The Sims: Livin Large;PC;2000;Misc;Electronic Arts;2.99;82;23;6.6;20;Maxis;T
+World of Warcraft: Mists of Pandaria;PC;2012;Role-Playing;Activision;1.82;82;42;4.8;1265;Blizzard Entertainment;T
+Dragon Age II;PC;2011;Action;Electronic Arts;0.63;82;45;4.5;4533;BioWare;M
+Dawn of Discovery;PC;2009;Simulation;Ubisoft;0.38;82;32;8.8;132;Blue Byte, Related Designs;T
+Need for Speed: Most Wanted;PC;2005;Racing;Electronic Arts;0.29;82;19;8.5;525;Black Box;T
+FIFA 15;PC;2014;Sports;Electronic Arts;0.28;82;9;4.2;383;EA Sports;E
+NBA 2K11;PC;2010;Action;Take-Two Interactive;0.19;82;6;8.6;37;Visual Concepts;E
+Metro: Last Light;PC;2013;Action;Deep Silver;0.19;82;71;8.6;2654;4A Games;M
+Tom Clancy's Splinter Cell: Blacklist;PC;2013;Action;Ubisoft;0.19;82;13;7.4;754;Ubisoft Toronto;M
+Bulletstorm;PC;2011;Shooter;Electronic Arts;0.16;82;34;7.7;768;Epic Games, People Can Fly;M
+Wildstar;PC;2014;Role-Playing;NCSoft;0.16;82;52;7.4;965;Carbine Studios;T
+The Book of Unwritten Tales;PC;2009;Adventure;HMH Interactive;0.1;82;32;8.2;144;KING Art;T
+Bejeweled 3;PC;2010;Puzzle;PopCap Games;0.08;82;27;8.1;86;PopCap;E
+Need for Speed: Most Wanted;PC;2012;Racing;Electronic Arts;0.08;82;19;8.5;525;Black Box;T
+Need for Speed Underground 2;PC;2004;Racing;Electronic Arts;0.07;82;31;8.5;407;EA Canada;T
+The Lord of the Rings: The Battle for Middle-Earth;PC;2004;Strategy;Electronic Arts;0.07;82;42;8.6;199;EA LA;T
+Pro Evolution Soccer 2015;PC;2014;Sports;Konami Digital Entertainment;0.06;82;8;5.8;173;Konami;
+S.T.A.L.K.E.R.: Shadow of Chernobyl;PC;2007;Shooter;THQ;0.06;82;44;8.4;1088;GSC Game World;M
+Plants vs. Zombies: Garden Warfare 2;PC;2016;Shooter;Electronic Arts;0.05;82;6;7.5;44;PopCap;E10+
+Need for Speed Underground;PC;2003;Racing;Electronic Arts;0.05;82;24;8.3;307;Black Box;E
+Hitman: Blood Money;PC;2006;Action;Eidos Interactive;0.03;82;35;8.8;528;Io Interactive;M
+Red Faction: Guerrilla;PC;2009;Shooter;THQ;0.03;82;29;7.5;308;Volition Inc., Reactor Zero;M
+Syberia;PC;2002;Action;Microids;0.03;82;26;8.5;235;Microids;T
+Botanicula;PC;2012;Adventure;Daedalic Entertainment;0.03;82;38;8.3;341;Amanita Design;
+Neverwinter Nights 2;PC;2006;Role-Playing;Atari;0.02;82;46;6.5;565;Obsidian Entertainment;T
+Tomb Raider: Legend;PC;2006;Action;Eidos Interactive;0.02;82;31;7.9;244;Nixxes Software;T
+Neverwinter Nights 2: Mask of the Betrayer;PC;2007;Role-Playing;Atari;0.01;82;25;8.8;182;Obsidian Entertainment;T
+Football Manager Live;PC;2009;Sports;Sega;0.01;82;23;3.1;45;Sports Interactive;
+Marvel: Ultimate Alliance;PC;2006;Role-Playing;Activision;0.01;82;22;8;52;Raven Software;T
+King's Bounty: Armored Princess;PC;2009;Role-Playing;1C Company;0.01;82;25;8.6;158;Katauri Interactive;T
+Call of Duty: Black Ops;PC;N/A;Shooter;Activision;1.63;81;29;5.2;1651;Treyarch;M
+Battlefield 4;PC;2013;Shooter;Electronic Arts;1.35;81;52;6;3517;EA DICE;M
+Napoleon: Total War;PC;2010;Strategy;Sega;0.66;81;56;7.9;515;Creative Assembly;T
+The Sims 3: World Adventures;PC;2009;Simulation;Electronic Arts;0.57;81;31;8;72;The Sims Studio;T
+Wolfenstein: The New Order;PC;2014;Shooter;Bethesda Softworks;0.45;81;23;8.2;1647;MachineGames;M
+Age of Empires III;PC;2005;Strategy;Microsoft Game Studios;0.38;81;52;7.7;519;Ensemble Studios;T
+Sid Meier's Civilization: Beyond Earth;PC;2014;Strategy;Take-Two Interactive;0.36;81;78;5.5;1027;Firaxis Games;E10+
+Football Manager 2016;PC;2015;Simulation;Sega;0.35;81;34;6.9;97;Sega;E
+Kingdoms of Amalur: Reckoning;PC;2012;Role-Playing;Electronic Arts;0.3;81;25;6.6;1097;Big Huge Games;M
+RollerCoaster Tycoon 3;PC;2004;Strategy;Atari;0.27;81;39;5;346;Frontier Developments;E
+Metro 2033;PC;2010;Shooter;THQ;0.24;81;40;8.1;1472;4A Games;M
+FIFA 16;PC;2015;Sports;Electronic Arts;0.2;81;10;4.4;296;EA Sports;E
+Borderlands;PC;2009;Shooter;Take-Two Interactive;0.18;81;37;7.8;1363;Gearbox Software;M
+Darksiders II;PC;2012;Action;Nordic Games;0.15;81;23;7.8;653;Vigil Games;M
+Alien: Isolation;PC;2014;Shooter;Sega;0.14;81;41;8.4;1588;Creative Assembly;M
+Sleeping Dogs;PC;2012;Action;Square Enix ;0.12;81;23;8.2;1209;United Front Games;M
+Stronghold;PC;2001;Strategy;Gathering of Developers;0.11;81;19;8.9;224;FireFly Studios;T
+Wasteland 2;PC;2015;Role-Playing;inXile Entertainment;0.1;81;65;7.3;1170;InXile Entertainment;M
+Football Manager 2017;PC;2016;Simulation;Sega;0.09;81;41;4.3;57;Sports Interactive;E
+Age of Empires III: The Asian Dynasties;PC;2007;Strategy;Microsoft Game Studios;0.06;81;19;8.5;71;Big Huge Games;T
+Blur;PC;2010;Racing;Activision;0.06;81;24;7.4;177;Bizarre Creations;E10+
+The Witcher;PC;2007;Role-Playing;Atari;0.06;81;50;8.8;1116;CD Projekt Red Studio;M
+The Sims 2: University;PC;2005;Simulation;Electronic Arts;0.06;81;31;7.8;49;Maxis;T
+Mirror's Edge;PC;2009;Platform;Electronic Arts;0.06;81;44;8.1;1026;EA DICE;T
+Empire Earth;PC;2001;Strategy;Vivendi Games;0.05;81;23;8.2;126;Stainless Steel Studios;T
+Supreme Commander: Forged Alliance;PC;2007;Strategy;THQ;0.04;81;35;8.9;219;Gas Powered Games;E10+
+Star Wars Jedi Knight: Jedi Academy;PC;2003;Shooter;Activision;0.03;81;34;8.6;293;Raven Software;T
+Dungeon Defenders;PC;2011;Role-Playing;Unknown;0.02;81;26;7.3;399;Trendy Entertainment;E10+
+Overlord;PC;2007;Strategy;Codemasters;0.02;81;27;8.1;220;Triumph Studios;T
+Quake 4;PC;2005;Shooter;Activision;0.02;81;62;7.6;281;Raven Software;M
+Painkiller;PC;2004;Shooter;DreamCatcher Interactive;0.02;81;62;8.1;284;People Can Fly;M
+The Sims: Makin' Magic;PC;2003;Simulation;Electronic Arts;1.92;80;22;8.6;31;Maxis;T
+Assassin's Creed III;PC;2012;Action;Ubisoft;0.93;80;21;6.2;1489;Ubisoft;M
+Assassin's Creed: Revelations;PC;2011;Action;Ubisoft;0.74;80;20;7.4;771;Ubisoft Montreal;M
+Far Cry 4;PC;2014;Shooter;Ubisoft;0.63;80;17;6.7;1064;Ubisoft Montreal;M
+Football Manager 2015;PC;2014;Simulation;Sega;0.46;80;36;6;151;Sports Interactive;
+Microsoft Flight Simulator X;PC;2006;Simulation;Microsoft Game Studios;0.43;80;28;7.6;95;Microsoft Game Studios;E
+Company of Heroes 2;PC;2013;Strategy;THQ;0.34;80;82;2.1;6157;Relic;M
+World of Tanks;PC;2011;Shooter;Wargaming.net;0.29;80;38;3.7;1466;Wargaming.net;T
+Total War: Attila;PC;2015;Strategy;Sega;0.24;80;66;7.3;520;Creative Assembly;T
+LEGO Harry Potter: Years 5-7;PC;N/A;Action;Warner Bros. Interactive Entertainment;0.22;80;5;8.5;44;Traveller's Tales;E10+
+LEGO The Lord of the Rings;PC;2012;Action;Warner Bros. Interactive Entertainment;0.22;80;6;8.2;127;TT Games;E10+
+Dead Island;PC;2011;Action;Deep Silver;0.22;80;24;6.8;1428;Techland;M
+Driver: San Francisco;PC;2011;Racing;Ubisoft;0.18;80;11;7;332;Ubisoft Reflections;T
+F1 2012;PC;2012;Racing;Codemasters;0.15;80;15;6.9;115;Codemasters;E
+Pro Evolution Soccer 2013;PC;2012;Sports;Konami Digital Entertainment;0.08;80;8;6.9;182;Konami;E
+Tomb Raider: Underworld;PC;2008;Action;Eidos Interactive;0.08;80;20;7.7;272;Nixxes Software;T
+Goodbye Deponia;PC;2013;Adventure;Daedalic Entertainment;0.07;80;34;7.9;171;Daedalic Entertainment;
+GRID 2;PC;2013;Racing;Codemasters;0.06;80;17;5.7;571;Codemasters;E
+LEGO Batman: The Videogame;PC;2008;Action;Warner Bros. Interactive Entertainment;0.06;80;15;7.8;61;Traveller's Tales;E10+
+S.T.A.L.K.E.R.: Call of Pripyat;PC;2009;Shooter;Namco Bandai Games;0.06;80;44;8.7;602;GSC Game World;M
+Railroad Tycoon 3;PC;2003;Strategy;Gathering of Developers;0.04;80;19;7.7;57;PopTop Software;E
+Trials Fusion;PC;2014;Racing;Ubisoft;0.03;80;12;6.8;97;RedLynx;E10+
+Men of War;PC;2009;Strategy;505 Games;0.03;80;22;8.1;136;Best Way;M
+Battlefield 2142;PC;2006;Shooter;Electronic Arts;0.03;80;48;6.8;326;EA DICE;T
+Dungeon Siege II;PC;2005;Role-Playing;Microsoft Game Studios;0.03;80;51;7.9;159;Gas Powered Games;M
+Syberia II;PC;2004;Adventure;MC2 Entertainment;0.02;80;23;8.3;150;Microids;T
+Codename: Panzers Phase Two;PC;2005;Strategy;CDV Software Entertainment;0.01;80;36;8.1;15;Stormregion;T
+The Chronicles of Riddick: Assault on Dark Athena;PC;2009;Shooter;Vivendi Games;0.01;80;26;8;136;Starbreeze;M
+Trine;PC;2009;Action;Nobilis;0.01;80;50;8.2;488;Frozenbyte, Inc.;E10+
+Metal Gear Solid V: Ground Zeroes;PC;2014;Action;Konami Digital Entertainment;0.01;80;20;7.6;412;Kojima Productions;M
+The Sims: Unleashed;PC;2002;Simulation;Electronic Arts;3.76;79;21;8;29;Maxis;T
+The Sims: Superstar;PC;2003;Simulation;Electronic Arts;1.68;79;20;8.2;25;Maxis;T
+Tom Clancy's The Division;PC;2016;Shooter;Ubisoft;0.41;79;33;5.8;1188;Massive Entertainment;M
+Rage;PC;2011;Shooter;Bethesda Softworks;0.37;79;32;5.2;1618;id Software;M
+The Settlers 7: Paths to a Kingdom;PC;2010;Strategy;Ubisoft;0.31;79;33;5.2;213;Blue Byte;E10+
+1701 A.D.;PC;2006;Simulation;Deep Silver;0.3;79;30;8.3;38;Related Designs;E10+
+Hitman: Absolution;PC;2012;Action;Square Enix;0.24;79;26;7;1327;Io Interactive, Nixxes Software;M
+Tom Clancy's Rainbow Six: Siege;PC;2015;Shooter;Ubisoft;0.23;79;37;6.9;734;Ubisoft Montreal;M
+Euro Truck Simulator 2;PC;2012;Action;SCS Software;0.13;79;17;8.7;992;SCS Software;
+Star Wars: Empire at War;PC;2006;Strategy;LucasArts;0.08;79;45;8.4;240;Petroglyph;T
+F.E.A.R. 2: Project Origin;PC;2009;Shooter;Warner Bros. Interactive Entertainment;0.07;79;49;7.8;520;Monolith Productions;M
+pro evolution soccer 2011;PC;2010;Sports;Konami Digital Entertainment;0.06;79;9;;;Konami;
+Payday 2;PC;2013;Shooter;505 Games;0.05;79;51;3.4;3558;Overkill Software;M
+Worms Reloaded;PC;2010;Strategy;Team17 Software;0.05;79;28;6.8;185;Team 17;E10+
+Silent Hunter: Wolves of the Pacific;PC;2007;Simulation;Ubisoft;0.05;79;22;6.9;40;Ubisoft Romania;T
+Tropico 3;PC;2009;Strategy;Kalypso Media;0.04;79;48;8.1;184;Haemimont;T
+Runaway: A Twist of Fate;PC;2009;Adventure;Focus Home Interactive;0.04;79;15;8.2;40;Pendulo Studios;T
+Split/Second;PC;2010;Racing;Disney Interactive Studios;0.04;79;18;8.2;116;Black Rock Studio;E10+
+Overlord II;PC;2009;Action;Codemasters;0.03;79;32;8.1;159;Triumph Studios;T
+Empire Earth II;PC;2005;Strategy;Vivendi Games;0.03;79;39;7.1;89;Mad Doc Software;T
+LEGO Harry Potter: Years 1-4;PC;2010;Action;Warner Bros. Interactive Entertainment;0.03;79;15;7.9;55;Traveller's Tales;E10+
+Brothers in Arms: Hell's Highway;PC;2008;Shooter;Ubisoft;0.02;79;22;7.9;130;Gearbox Software;M
+Street Fighter X Tekken;PC;2012;Fighting;Capcom;0.02;79;8;6.4;134;Capcom, QLOC;T
+Test Drive Unlimited;PC;2007;Racing;Atari;0.02;79;18;8.1;124;Eden Studios;T
+Guitar Hero III: Legends of Rock;PC;2007;Misc;Aspyr;0.02;79;15;7.2;63;Aspyr;T
+Uru: Ages Beyond Myst;PC;2003;Adventure;Ubisoft;0.02;79;22;7.6;29;Cyan Worlds;E
+FlatOut: Ultimate Carnage;PC;2008;Racing;Empire Interactive;0.01;79;16;7.7;127;Bugbear;T
+TrackMania Turbo;PC;2016;Action;Ubisoft;0.01;79;13;6.8;42;Nadeo;E
+Call of Duty: Modern Warfare 3;PC;2011;Shooter;Activision;1.72;78;26;2.5;5664;Infinity Ward, Sledgehammer Games;M
+The Sims 2: Open for Business;PC;2006;Simulation;Electronic Arts;0.52;78;29;8.6;35;Maxis;T
+Call of Duty: Advanced Warfare;PC;2014;Shooter;Activision;0.41;78;18;4.5;1136;Sledgehammer Games;M
+Tropico 4;PC;2011;Strategy;Kalypso Media;0.27;78;46;7.7;359;Haemimont;T
+Dead Space 3;PC;N/A;Action;Electronic Arts;0.19;78;16;6;1096;Visceral Games;M
+Star Wars: Battlefront II;PC;2005;Shooter;LucasArts;0.17;78;23;8.8;431;Pandemic Studios;T
+LEGO Marvel Super Heroes;PC;2013;Action;Warner Bros. Interactive Entertainment;0.17;78;7;8.1;124;TT Games;E10+
+Dead Rising 2;PC;2010;Action;Capcom;0.14;78;17;6.3;211;Blue Castle Games;M
+Rocksmith;PC;N/A;Misc;Unknown;0.12;78;5;8.1;57;Ubisoft;T
+The Sims 2: Seasons;PC;2007;Simulation;Electronic Arts;0.07;78;20;7.3;29;Maxis;T
+Medal of Honor: Airborne;PC;2007;Shooter;Electronic Arts;0.05;78;38;7.3;204;Electronic Arts;T
+Bejeweled Twist;PC;2008;Puzzle;PopCap Games;0.05;78;12;7.3;11;PopCap;E
+Star Wars: Republic Commando;PC;2005;Shooter;LucasArts;0.05;78;34;8.7;279;LucasArts;T
+Need for Speed Carbon;PC;2006;Racing;Electronic Arts;0.05;78;17;7.2;249;Black Box;E10+
+Praetorians;PC;2003;Strategy;Eidos Interactive;0.04;78;23;8.2;38;Pyro Studios;T
+LEGO Indiana Jones: The Original Adventures;PC;2008;Action;LucasArts;0.04;78;14;7.7;35;Traveller's Tales;E10+
+Stellaris;PC;2016;Strategy;Paradox Interactive;0.04;78;57;8;569;Paradox Development Studio;
+Devil May Cry 4;PC;2008;Action;Capcom;0.04;78;21;8.5;353;Capcom;M
+Call of Juarez: Bound in Blood;PC;2009;Shooter;Ubisoft;0.03;78;39;8;282;Techland;M
+GRID Autosport;PC;2014;Racing;Codemasters;0.02;78;35;6.2;257;Codemasters;E
+Viva Pinata;PC;2007;Simulation;Microsoft Game Studios;0.02;78;20;7.8;20;Climax Group, Climax Studios;E
+Tom Clancy's Rainbow Six: Vegas 2;PC;2008;Shooter;Ubisoft;0.02;78;20;7.3;185;Ubisoft Montreal;M
+Tropico 4: Modern Times;PC;2012;Strategy;Kalypso Media;0.02;78;11;8;58;Haemimont;T
+Plants vs. Zombies: Garden Warfare;PC;2014;Shooter;Electronic Arts;0.02;78;11;7.8;186;PopCap;E10+
+Ride 2;PC;2016;Racing;Milestone S.r.l;0.01;78;4;7.9;14;Milestone S.r.l;E
+Pro Evolution Soccer 2010;PC;2009;Sports;Konami Digital Entertainment;0.01;78;8;6.9;49;Konami;E
+Transformers: Fall of Cybertron;PC;2012;Action;Activision;0.01;78;13;7.9;121;High Moon Studios, Mercenary Technologies;T
+The Sims: Medieval;PC;2011;Simulation;Electronic Arts;0.69;77;56;6.1;173;The Sims Studio;T
+Watch Dogs;PC;2014;Action;Ubisoft;0.45;77;18;4.7;3288;Ubisoft Montreal;M
+TERA;PC;N/A;Role-Playing;Unknown;0.42;77;41;6.8;742;Bluehole Studio;M
+Mafia II;PC;2010;Action;Take-Two Interactive;0.4;77;46;7.9;1238;2K Czech;M
+Supreme Commander 2;PC;2010;Strategy;Square Enix;0.19;77;54;6.2;803;Gas Powered Games;E10+
+Evolve;PC;2015;Shooter;Take-Two Interactive;0.19;77;39;4.3;969;Turtle Rock Studios;M
+ArmA II;PC;2009;Shooter;505 Games;0.14;77;38;7.5;589;Bohemia Interactive;M
+Risen;PC;2009;Role-Playing;Deep Silver;0.14;77;32;8.1;676;Piranha Bytes;M
+The Darkness II;PC;2012;Shooter;Take-Two Interactive;0.14;77;20;7.6;448;Digital Extremes;M
+Lost Horizon;PC;2010;Adventure;Deep Silver;0.11;77;24;7.9;27;Animation Arts;T
+Sonic Generations;PC;2011;Platform;Sega;0.11;77;11;8.3;337;Sega;E
+The Sims 4: City Living;PC;2016;Simulation;Electronic Arts;0.1;77;10;5.7;30;Maxis;T
+Pro Evolution Soccer 2012;PC;2011;Action;Konami Digital Entertainment;0.09;77;13;6.4;88;Konami;
+Hearts of Iron III;PC;2009;Strategy;Paradox Interactive;0.07;77;23;7.1;233;Paradox Development Studio;E10+
+Titan Quest;PC;2006;Role-Playing;THQ;0.06;77;51;8.1;387;Iron Lore Entertainment;T
+Men of War: Assault Squad;PC;2011;Strategy;1C Company;0.05;77;21;8.2;93;THQ, 1C, 1C Company;T
+Heroes of Might and Magic V;PC;2006;Strategy;Ubisoft;0.04;77;41;7.9;349;Nival Interactive;T
+Resident Evil: Revelations;PC;2013;Action;Capcom;0.04;77;12;7;342;Capcom;M
+The Void;PC;2008;Adventure;Mamba Games;0.03;77;12;8.3;97;Ice-Pick Lodge;
+Knights of Honor;PC;2004;Strategy;Sunflowers;0.03;77;26;9.1;89;Black Sea Studios;E10+
+FIFA Soccer 09;PC;2008;Sports;Electronic Arts;0.02;77;15;6.8;36;EA Canada;E
+FIFA Soccer 08;PC;2007;Sports;Electronic Arts;0.02;77;7;6.1;50;EA Canada;E
+Harry Potter and the Chamber of Secrets;PC;2002;Action;Electronic Arts;0.01;77;8;8.4;93;KnowWonder;E
+The Sims 2: Nightlife;PC;2005;Simulation;Electronic Arts;1.27;76;31;6.6;71;Maxis;T
+Total War: Rome II;PC;2013;Strategy;Sega;0.72;76;71;4.2;3742;Creative Assembly;T
+Crysis 3;PC;2013;Shooter;Electronic Arts;0.63;76;47;6.5;1223;Crytek;M
+R.U.S.E.;PC;2010;Strategy;Ubisoft;0.27;76;33;8.1;176;Eugen Systems;T
+LEGO Star Wars III: The Clone Wars;PC;2011;Action;LucasArts;0.25;76;14;7.5;44;Traveller's Tales;E10+
+Need for Speed Rivals;PC;2013;Racing;Electronic Arts;0.25;76;16;3.3;546;Ghost Games;E10+
+Spec Ops: The Line;PC;2012;Shooter;Take-Two Interactive;0.23;76;16;8.2;1237;Yager;M
+Two Worlds II;PC;2011;Role-Playing;Unknown;0.2;76;31;6.5;315;Reality Pump;M
+Red Orchestra 2: Heroes of Stalingrad;PC;2011;Shooter;Tripwire Interactive;0.14;76;49;7.3;729;Tripwire Interactive;M
+[Prototype 2];PC;2012;Action;Activision;0.11;76;12;6.4;389;Radical Entertainment;M
+Wolfenstein: The Old Blood;PC;2015;Action;Bethesda Softworks;0.09;76;30;7.6;338;MachineGames;M
+The Saboteur;PC;2009;Action;Electronic Arts;0.06;76;20;8;236;Pandemic Studios;M
+The Lost Chronicles of Zerzura;PC;2012;Adventure;DTP Entertainment;0.05;76;9;6.7;15;Cranberry Production;
+Mortal Kombat X;PC;2015;Fighting;Warner Bros. Interactive Entertainment;0.05;76;10;5.1;475;High Voltage Software;M
+Operation Flashpoint: Dragon Rising;PC;2009;Shooter;Codemasters;0.05;76;29;4.9;539;Codemasters;M
+Singularity;PC;2010;Shooter;Mastertronic;0.05;76;36;7.7;326;Raven Software;M
+Pro Evolution Soccer 2016;PC;2015;Sports;Konami Digital Entertainment;0.04;76;12;4.3;286;Konami;E
+The Sims 2: Pets;PC;2006;Simulation;Electronic Arts;0.04;76;23;7.7;40;Maxis;T
+Lock On: Modern Air Combat;PC;2003;Simulation;Ubisoft;0.03;76;20;7.5;549;Eagle Dynamics;E
+Resident Evil 4;PC;2007;Action;Ubisoft;0.03;76;15;7.4;242;Capcom;M
+Demigod;PC;2009;Strategy;Atari;0.02;76;50;7.9;183;Gas Powered Games;T
+Heroes of the Pacific;PC;2005;Simulation;Codemasters;0.02;76;18;6.7;19;IR Gurus;T
+Peggle Nights;PC;2008;Puzzle;PopCap Games;0.02;76;15;8.1;24;PopCap;E
+Pirates of the Burning Sea;PC;2008;Role-Playing;Koch Media;0.02;76;30;7.6;61;Flying Lab Software;T
+Sniper Elite;PC;2005;Shooter;MC2 Entertainment;0.02;76;13;8;142;Rebellion;M
+Battlestations: Midway;PC;2007;Strategy;Eidos Interactive;0.01;76;20;7.3;46;Eidos Interactive;T
+The Sims: Vacation;PC;2002;Simulation;Electronic Arts;3.07;75;18;7.8;22;Maxis;T
+Fable III;PC;2011;Role-Playing;Microsoft Game Studios;0.32;75;39;5.4;555;Lionhead Studios;M
+Borderlands: The Pre-Sequel;PC;2014;Shooter;Take-Two Interactive;0.29;75;55;6.2;703;2K Australia;M
+Dying Light;PC;2015;Action;Warner Bros. Interactive Entertainment;0.2;75;40;7.9;1295;Techland;M
+Alice: Madness Returns;PC;2011;Adventure;Electronic Arts;0.12;75;29;8.4;559;Spicy Horse;M
+Tropico 5;PC;2014;Simulation;Kalypso Media;0.12;75;51;7;351;Haemimont;T
+Stronghold Kingdoms;PC;2011;Strategy;DTP Entertainment;0.11;75;4;4.9;89;FireFly Studios;
+Red Faction: Armageddon;PC;2011;Shooter;THQ;0.09;75;29;6.7;273;Volition Inc.;M
+The Sims 2: Apartment Life;PC;2008;Simulation;Electronic Arts;0.09;75;10;7.7;19;Electronic Arts;T
+The Next BIG Thing;PC;2011;Adventure;Focus Home Interactive;0.06;75;30;7.9;35;Pendulo Studios;E10+
+City Life: World Edition;PC;2007;Simulation;Monte Christo Multimedia;0.04;75;7;8.2;9;Monte Cristo Multimedia;E
+Port Royale 2;PC;2004;Strategy;Ascaron Entertainment GmbH;0.04;75;20;7.7;40;Ascaron Entertainment GmbH;T
+S.T.A.L.K.E.R.: Clear Sky;PC;2008;Shooter;Deep Silver;0.04;75;47;7.7;478;GSC Game World;M
+The Night of the Rabbit;PC;2013;Adventure;Daedalic Entertainment;0.03;75;45;7.5;82;Daedalic Entertainment;
+Prince of Persia: The Forgotten Sands;PC;2010;Action;Ubisoft;0.03;75;16;6.6;218;Ubisoft Montreal;T
+Star Wars: Empire at War - Forces of Corruption;PC;2006;Strategy;LucasArts;0.02;75;25;8.6;79;Petroglyph;T
+Just Cause;PC;2006;Action;Eidos Interactive;0.02;75;21;7.3;206;Avalanche Studios;M
+Worms World Party;PC;2001;Strategy;Virgin Interactive;0.02;75;8;7.6;68;Team 17;E
+A Vampyre Story;PC;2008;Adventure;Crimson Cow;0.02;75;33;8.5;25;Autumn Moon;T
+Evil Genius;PC;2004;Strategy;Vivendi Games;0.02;75;51;8.3;106;Elixir Studios;T
+BattleForge;PC;2009;Strategy;Electronic Arts;0.01;75;37;7;112;EA Phenomic;T
+The Sims: House Party;PC;2001;Simulation;Electronic Arts;2.16;74;17;7.9;30;Maxis;T
+The Sims 3: Late Night Expansion Pack;PC;2010;Simulation;Electronic Arts;1.7;74;17;5.3;77;The Sims Studio;T
+Call of Duty: Black Ops II;PC;2012;Shooter;Activision;1.53;74;11;4.2;1635;Treyarch;M
+RollerCoaster Tycoon 2;PC;2002;Strategy;Atari;1.25;74;22;8.5;135;Chris Sawyer;E
+The Sims 3: Ambitions;PC;2010;Simulation;Electronic Arts;0.46;74;25;7.3;51;EA Redwood Shores;T
+Batman: Arkham Origins;PC;2013;Action;Warner Bros. Interactive Entertainment;0.31;74;17;7.5;1170;Iron Galaxy Studios;T
+Assassin's Creed Syndicate;PC;2015;Action;Ubisoft;0.21;74;14;5.9;544;Ubisoft Quebec;M
+The Secret World;PC;2012;Role-Playing;Funcom;0.17;74;55;8.2;1326;Funcom;M
+Far Cry: Primal;PC;2016;Action;Ubisoft;0.16;74;18;4.8;368;Ubisoft Montreal;M
+F.E.A.R. 3;PC;2011;Shooter;Warner Bros. Interactive Entertainment;0.15;74;34;5.9;420;Day 1 Studios;M
+Deponia;PC;2012;Adventure;Daedalic;0.15;74;33;8.2;307;Daedalic Entertainment;
+Just Cause 3;PC;2015;Action;Square Enix;0.14;74;50;5.3;529;Avalanche Studios;M
+ArmA III;PC;2013;Shooter;Bohemia Interactive;0.11;74;38;7.4;866;Bohemia Interactive;M
+Pro Evolution Soccer 2014;PC;2013;Action;Konami Digital Entertainment;0.1;74;9;4.4;239;Konami;E
+Major League Baseball 2K11;PC;2011;Sports;Take-Two Interactive;0.08;74;5;5.9;16;Visual Concepts;E
+Assassin's Creed: Rogue;PC;2015;Action;Ubisoft;0.08;74;25;7.5;362;Ubisoft;M
+Mirror's Edge Catalyst;PC;2016;Platform;Electronic Arts;0.06;74;24;4.4;606;EA DICE;T
+Street Fighter V;PC;2016;Fighting;Capcom;0.06;74;33;2.9;431;Capcom;T
+Wolfenstein;PC;2009;Shooter;Activision;0.05;74;41;7.3;261;id Software, Raven Software;M
+Caesar IV;PC;2006;Strategy;Vivendi Games;0.04;74;32;7.6;43;Tilted Mill;E10+
+Transformers: Devastation;PC;2015;Action;Activision;0.03;74;9;7.6;56;PlatinumGames;T
+Rayman 3: Hoodlum Havoc;PC;2003;Platform;Ubisoft;0.03;74;8;8.3;70;Ubisoft;E
+Cossacks: European Wars;PC;2001;Strategy;Strategy First;0.03;74;16;8.6;60;GSC Game World;T
+Magicka;PC;2011;Role-Playing;Paradox Interactive;0.03;74;44;7.6;602;Arrowhead Game Studios;T
+The Sims 2: Bon Voyage;PC;2007;Simulation;Electronic Arts;0.03;74;9;7.3;24;Maxis;T
+Battlestations: Pacific;PC;2009;Strategy;Eidos Interactive;0.03;74;31;8.4;46;Eidos Interactive;T
+Mini Ninjas;PC;2009;Action;Eidos Interactive;0.02;74;14;8.3;78;Io Interactive;E10+
+Vietcong;PC;2003;Shooter;Gathering of Developers;0.02;74;22;8.7;76;Pterodon;T
+The Crew: Wild Run;PC;2015;Action;Ubisoft;0.02;74;6;7.4;41;Ivory Tower;T
+Serious Sam II;PC;2005;Shooter;Take-Two Interactive;0.01;74;31;7;152;Croteam;M
+Sega Rally Revo;PC;2007;Racing;Sega;0.01;74;9;7.6;18;SEGA Racing Studio;E
+The Sims 3: Seasons;PC;2012;Simulation;Electronic Arts;0.16;73;12;7.5;48;The Sims Studio;T
+Call of Duty: Infinite Warfare;PC;2016;Shooter;Activision;0.14;73;16;3;440;Infinity Ward;M
+The Testament of Sherlock Holmes;PC;2012;Adventure;Focus Home Interactive;0.07;73;18;8;128;Frogwares;M
+Scarface: The World is Yours;PC;2006;Action;Vivendi Games;0.04;73;18;7.5;57;Radical Entertainment;M
+RACE On;PC;2009;Racing;bitComposer Games;0.03;73;14;8.2;20;SimBin;E
+Song of the Deep;PC;2016;Action;Insomniac Games;0.03;73;12;6.3;15;Insomniac Games;E
+Lords of the Fallen;PC;2014;Role-Playing;Square Enix;0.03;73;36;6.9;583;City Interactive, Deck 13;M
+LEGO Pirates of the Caribbean: The Video Game;PC;2011;Action;Disney Interactive Studios;0.03;73;11;6.6;17;Traveller's Tales;E10+
+Warhammer: Mark of Chaos;PC;2006;Strategy;Deep Silver;0.03;73;32;7.4;57;Black Hole Games;M
+X3: Terran Conflict;PC;2008;Simulation;Deep Silver;0.03;73;16;7.9;222;Egosoft;T
+Ceville;PC;2009;Action;Kalypso Media;0.02;73;17;8.2;21;Boxed Dream;E
+Frontlines: Fuel of War;PC;2008;Shooter;THQ;0.02;73;19;6.9;171;Kaos Studios;T
+Lara Croft and the Temple of Osiris;PC;2014;Action;Square Enix;0.02;73;17;5.4;52;Nixxes Software;T
+Blood Bowl: Legendary Edition;PC;2010;Sports;Focus Home Interactive;0.02;73;13;6.4;75;Cyanide;T
+Medal of Honor;PC;2010;Shooter;Electronic Arts;0.49;72;26;6.4;516;Dice, Danger Close;M
+Anno 2205;PC;2015;Strategy;Ubisoft;0.25;72;45;5.9;278;Blue Byte;E10+
+DC Universe Online;PC;2011;Role-Playing;Sony Online Entertainment;0.23;72;27;6.8;243;WBIE;T
+The Sims 4: Get Together;PC;2015;Simulation;Electronic Arts;0.22;72;16;7.3;117;Maxis;T
+Star Wars: Battlefront;PC;2004;Shooter;LucasArts;0.21;72;19;3.5;1509;EA DICE;T
+Test Drive Unlimited 2;PC;N/A;Racing;Atari;0.19;72;19;5.7;253;Eden;T
+Dungeon Siege III;PC;2011;Role-Playing;Square Enix;0.17;72;37;4.7;399;Obsidian Entertainment;T
+Halo 2;PC;2007;Shooter;Microsoft Game Studios;0.09;72;32;5.6;216;Microsoft Game Studios;M
+Gray Matter;PC;2011;Adventure;DTP Entertainment;0.08;72;27;7.7;80;Wizarbox;T
+Serious Sam 3: BFE;PC;2011;Shooter;Mastertronic;0.08;72;53;8.2;586;Croteam;
+Divinity II: Ego Draconis;PC;2009;Role-Playing;DTP Entertainment;0.07;72;43;7.7;125;Larian Studios;M
+Zoo Tycoon 2;PC;2004;Strategy;Microsoft Game Studios;0.06;72;34;8.1;43;Blue Fang Games;E
+FIFA Soccer 10;PC;2009;Sports;Electronic Arts;0.05;72;14;3.8;59;EA Sports;E
+FIFA Manager 12;PC;2011;Sports;Electronic Arts;0.05;72;11;3.9;24;Bright Future GmbH;E
+Blood Bowl;PC;2009;Sports;Focus Home Interactive;0.04;72;34;6.5;57;Cyanide;T
+LEGO Jurassic World;PC;2015;Action;Warner Bros. Interactive Entertainment;0.04;72;8;7.1;31;TT Games;E10+
+Saints Row 2;PC;2009;Action;THQ;0.04;72;24;6.8;380;Volition Inc., CD Projekt Red Studio, CD Projekt, CD Projekt Localisation Centre;M
+Section 8;PC;2009;Shooter;SouthPeak Games;0.03;72;31;7;78;TimeGate Studios;T
+Alpha Protocol;PC;2010;Role-Playing;Sega;0.03;72;25;7.5;511;Obsidian Entertainment;M
+The Inner World;PC;2013;Adventure;Headup Games;0.03;72;18;8.1;48;Headup Games;
+Bully: Scholarship Edition;PC;2008;Action;Take-Two Interactive;0.03;72;11;7.5;257;Mad Doc Software, Rockstar Vancouver;T
+Divinity II: Flames of Vengeance;PC;2010;Role-Playing;DTP Entertainment;0.03;72;4;8.3;15;Larian Studios;M
+Jurassic Park: Operation Genesis;PC;2003;Simulation;Vivendi Games;0.02;72;15;8.7;55;Blue Tongue Entertainment;T
+Ridge Racer Unbounded;PC;2012;Racing;Namco Bandai Games;0.02;72;9;6;83;Bugbear;T
+Commandos 3: Destination Berlin;PC;2003;Strategy;Eidos Interactive;0.02;72;24;7.6;83;Pyro Studios;T
+Dungeons - The Dark Lord;PC;2011;Strategy;Kalypso Media;0.02;72;6;5.6;16;Kalypso;M
+Majesty 2: The Fantasy Kingdom Sim;PC;2009;Simulation;Paradox Interactive;0.02;72;31;7.3;129;1C, Ino-Co, 1C Company;T
+Valentino Rossi: The Game;PC;2016;Racing;Namco Bandai Games;0.01;72;4;6.2;14;Milestone, Milestone S.r.l;E
+Call of Juarez;PC;2006;Shooter;Ubisoft;0.01;72;25;7.8;223;Techland;M
+Impossible Creatures;PC;2002;Strategy;Microsoft Game Studios;0.01;72;30;8;39;Relic;T
+Rail Simulator;PC;2007;Simulation;Electronic Arts;0.01;72;13;6.9;24;Kuju Entertainment;E
+Cities: Skylines Snowfall;PC;2016;Simulation;Paradox Development;0.01;72;16;7.1;20;Colossal Order;
+The Elder Scrolls Online;PC;2014;Role-Playing;Bethesda Softworks;0.9;71;64;5.7;2421;ZeniMax Media;M
+Tom Clancy's Ghost Recon: Future Soldier;PC;2012;Shooter;Ubisoft;0.17;71;13;4.9;368;Ubisoft Paris;M
+The Crew;PC;2014;Racing;Ubisoft;0.16;71;12;6.4;463;Ubisoft Reflections, Ivory Tower;T
+Battlefield: Hardline;PC;2015;Shooter;Electronic Arts;0.14;71;31;3.8;773;Visceral Games;M
+Sacred 2: Fallen Angel;PC;2008;Role-Playing;Ascaron Entertainment GmbH;0.06;71;41;6.9;203;Ascaron Entertainment GmbH, Ascaron Entertainment;M
+DarkStar One;PC;2006;Simulation;Ubisoft;0.03;71;33;7.2;54;Ascaron Entertainment GmbH;T
+ParaWorld;PC;2006;Strategy;Deep Silver;0.02;71;29;8.3;23;SEK Ost;T
+Kung Fu Panda;PC;2008;Action;Activision;0.02;71;11;7.8;12;Beenox;E10+
+Elven Legacy;PC;2009;Strategy;Paradox Interactive;0.02;71;27;7.1;38;1C:Ino-Co;T
+Post Mortem;PC;2003;Adventure;Microids;0.02;71;25;8;28;Microids;M
+Battle Worlds: Kronos;PC;2016;Strategy;Nordic Games;0.01;71;15;7.1;71;KING Art;
+TimeShift;PC;2007;Shooter;Vivendi Games;0.01;71;30;7.6;124;Saber Interactive;M
+Act of Aggression;PC;2015;Strategy;Focus Home Interactive;0.01;71;37;7.1;93;Eugen Systems;
+The Sims 4;PC;2014;Simulation;Electronic Arts;3.05;70;74;3.9;2057;Maxis;T
+The Sims 3: Generations;PC;2011;Simulation;Electronic Arts;0.63;70;22;3.6;81;The Sims Studio;T
+Assassin's Creed: Unity;PC;2014;Action;Ubisoft;0.55;70;10;3;1463;Ubisoft, Ubisoft Montreal;M
+Homefront;PC;2011;Shooter;THQ;0.24;70;36;5.5;531;Digital Extremes;M
+Brink;PC;2011;Shooter;Bethesda Softworks;0.18;70;38;6;547;Splash Damage;T
+Batman: Arkham Knight;PC;2015;Action;Warner Bros. Interactive Entertainment;0.13;70;14;2.5;1967;Rocksteady Studios, Iron Galaxy Studios;M
+The Whispered World;PC;2009;Adventure;Deep Silver;0.1;70;41;7.6;77;Daedalic Entertainment;E
+Age of Empires Online;PC;2011;Strategy;Microsoft Game Studios;0.06;70;44;5.6;186;Gas Powered Games;E10+
+Cities in Motion;PC;2011;Simulation;Paradox Interactive;0.05;70;20;7.7;105;Colossal Order;E
+Tom Clancy's HAWX;PC;2009;Action;Ubisoft;0.04;70;23;7.3;125;Ubisoft Romania;T
+Need for Speed: ProStreet;PC;2007;Racing;Electronic Arts;0.04;70;18;5.9;163;EA Games;E10+
+Company of Heroes: Tales of Valor;PC;2009;Strategy;THQ;0.04;70;42;7.2;204;Relic;M
+Transport Fever;PC;2016;Simulation;Astragon;0.04;70;11;7;28;Urban Games;
+Take On Helicopters;PC;2011;Simulation;Unknown;0.03;70;10;6.7;28;Bohemia Interactive;T
+007: Quantum of Solace;PC;2008;Action;Activision;0.03;70;18;6.3;55;Treyarch;T
+MySims;PC;2008;Simulation;Electronic Arts;0.03;70;12;6.4;8;EA Redwood Shores;E
+Cities XL 2011;PC;2010;Simulation;Focus Home Interactive;0.02;70;17;5.7;39;Monte Cristo Multimedia;E
+Hellgate: London;PC;2007;Role-Playing;Electronic Arts;0.02;70;40;6.3;374;Flagship Studios;M
+Achtung Panzer: Kharkov 1943;PC;2010;Strategy;Mamba Games;0.02;70;6;8.3;20;Paradox Interactive;
+Sengoku;PC;2011;Strategy;Paradox Interactive;0.01;70;13;6.8;86;Paradox Development Studio;T
+Legacy of Kain: Defiance;PC;2003;Action;Eidos Interactive;0.01;70;11;8.7;67;Nixxes Software;M
+Need for Speed: The Run;PC;2011;Action;Electronic Arts;0.36;69;18;5.8;338;Black Box;T
+Risen 2: Dark Waters;PC;2012;Role-Playing;Deep Silver;0.22;69;51;5.6;751;Piranha Bytes;M
+EVE Online;PC;2003;Role-Playing;CCP;0.2;69;22;7.5;280;CCP;T
+Battleborn;PC;2016;Shooter;Take-Two Interactive;0.08;69;34;6.9;400;Gearbox Software;T
+Resident Evil 6;PC;2012;Shooter;Capcom;0.04;69;18;5.9;868;Capcom, QLOC;M
+Imperial Glory;PC;2005;Strategy;Eidos Interactive;0.04;69;28;8.4;73;Pyro Studios;T
+Jack Keane;PC;2008;Adventure;Kalypso Media;0.03;69;25;7;21;Legacy Interactive;T
+Battle vs. Chess;PC;N/A;Misc;TopWare Interactive;0.03;69;5;5.9;12;Targem Games;T
+Order of War;PC;2009;Strategy;Square Enix;0.02;69;39;7.3;73;Wargaming.net;T
+Pro Evolution Soccer 2017;PC;2016;Sports;Konami Digital Entertainment;0.02;69;9;3.7;137;Konami;E
+Combat Flight Simulator 3: Battle for Europe;PC;2002;Simulation;Microsoft Game Studios;0.02;69;16;6.5;22;Microsoft Game Studios;E
+The Evil Within;PC;2014;Action;Bethesda Softworks;0.27;68;18;5.9;721;Tango Gameworks;M
+Aliens vs Predator;PC;2010;Shooter;Sega;0.19;68;35;7.4;985;Rebellion;M
+The LEGO Movie Videogame;PC;2014;Action;Warner Bros. Interactive Entertainment;0.06;68;7;6.8;33;TT Games;E10+
+LEGO The Hobbit;PC;2014;Action;Warner Bros. Interactive Entertainment;0.05;68;6;;;TT Games;E10+
+Men of War: Vietnam;PC;2011;Strategy;Unknown;0.04;68;19;4.9;35;Best Way;T
+Commander: Conquest of the Americas;PC;2010;Strategy;Paradox Interactive;0.03;68;16;5.2;19;Nitro Games;T
+Ride;PC;2015;Racing;Milestone S.r.l.;0.03;68;8;4.8;30;Milestone S.r.l;E
+Tom Clancy's EndWar;PC;2009;Strategy;Ubisoft;0.02;68;24;6.7;42;Ubisoft Shanghai;T
+Operation Flashpoint: Red River;PC;2011;Shooter;Codemasters;0.07;67;25;4.9;103;Codemasters;M
+Harry Potter and the Prisoner of Azkaban;PC;2004;Action;Electronic Arts;0.04;67;19;7.2;50;KnowWonder;E
+Codename: Panzers Cold War;PC;2009;Strategy;Atari;0.03;67;28;5.8;8;Stormregion;T
+Ice Age: Dawn of the Dinosaurs;PC;2009;Action;Activision;0.02;67;5;tbd;;Activision;E10+
+Fuel;PC;2009;Racing;Codemasters;0.02;67;16;6.7;86;Asobo Studio;E
+Oil Rush;PC;2012;Strategy;Iceberg Interactive;0.02;67;23;6.5;55;Unigine Corp, Russia;
+Tycoon City: New York;PC;2006;Strategy;Atari;0.02;67;30;8.3;4;Deep Red;T
+Still Life 2;PC;2009;Adventure;Rondomedia;0.02;67;15;5.7;54;GameCo;M
+East India Company;PC;2009;Strategy;Paradox Interactive;0.02;67;28;5.7;49;Nitro Games;T
+The Lord of the Rings: War in the North;PC;2011;Action;Warner Bros. Interactive Entertainment;0.19;66;21;7.1;289;Snowblind Studios;M
+Dead Rising 2: Off the Record;PC;2011;Action;Capcom;0.06;66;10;5.3;54;Capcom Vancouver;M
+Tom Clancy's HAWX 2;PC;2010;Action;Ubisoft;0.05;66;12;3.8;47;Ubisoft;T
+The Bureau: XCOM Declassified;PC;2013;Shooter;Take-Two Interactive;0.05;66;45;6.5;621;2K Marin;M
+LEGO Indiana Jones 2: The Adventure Continues;PC;2009;Action;Activision;0.05;66;13;8;19;Traveller's Tales;E10+
+Secret Files: Tunguska;PC;2006;Adventure;DreamCatcher Interactive;0.04;66;26;7.4;38;Fusionsphere Systems;T
+Virtua Tennis 4;PC;2011;Sports;Sega;0.04;66;5;7.3;43;Sega;E
+Patrician IV;PC;2010;Strategy;Kalypso Media;0.04;66;18;6.4;34;Gaming Minds Studios;E
+Worms: Ultimate Mayhem;PC;2011;Strategy;Unknown;0.04;66;4;7.8;48;Team 17;E10+
+The Settlers: Rise of an Empire;PC;2007;Strategy;Ubisoft;0.02;66;19;7.7;44;Blue Byte;E10+
+Ghost Pirates of Vooju Island;PC;2009;Adventure;DTP Entertainment;0.02;66;14;tbd;;Autumn Moon;T
+Star Trek Online;PC;2010;Role-Playing;Atari;0.02;66;34;6.2;694;Cryptic Studios;T
+Agatha Christie: The ABC Murders;PC;2016;Adventure;Microids;0.02;66;15;8.5;144;Artefacts Studio;
+Quantum Break;PC;2016;Action;Microsoft Game Studios;0.02;66;14;4.3;539;Remedy Entertainment;M
+DuckTales: Remastered;PC;2013;Action;Capcom;0.02;66;6;7.6;152;WayForward;E
+The Last Remnant;PC;2009;Role-Playing;Square Enix;0.01;66;23;8.3;240;Square Enix;M
+Theatre Of War;PC;2007;Strategy;Kalypso Media;0.01;66;13;6.2;21;Battlefront.com, 1C, 1C Company;T
+Farming Simulator 2013;PC;2012;Simulation;Focus Home Interactive;0.96;65;12;7.5;111;Giants Software;E
+Darkspore;PC;2011;Role-Playing;Electronic Arts;0.12;65;52;6;133;Maxis;T
+Dungeons;PC;2011;Strategy;Kalypso Media;0.09;65;35;4.6;106;Realmforge Studios;M
+Risen 3: Titan Lords;PC;2014;Role-Playing;Deep Silver;0.09;65;49;5.7;822;Piranha Bytes;M
+Need For Speed: Undercover;PC;2008;Racing;Electronic Arts;0.08;65;18;4.9;231;EA Black Box;T
+Harry Potter and the Sorcerer's Stone;PC;2001;Action;Electronic Arts;0.06;65;11;7.8;76;KnowWonder;E
+Remember Me;PC;2013;Action;Capcom;0.06;65;26;7.4;1007;DONTNOD Entertainment;M
+Air Conflicts: Secret Wars;PC;2011;Simulation;bitComposer Games;0.03;65;5;6.4;24;Games Farm;T
+Blazing Angels: Squadrons of WWII;PC;2006;Simulation;Ubisoft;0.02;65;16;4.6;17;Ubisoft Romania;T
+The Incredibles: Rise of the Underminer;PC;2005;Action;THQ;0.02;65;5;tbd;;Heavy Iron Studios;E10+
+Turok;PC;2008;Action;Touchstone;0.01;65;16;6.5;55;Propaganda Games;M
+War for the Overworld;PC;2015;Strategy;Unknown;0.01;65;14;7.7;90;Subterranean Games;
+WRC: FIA World Rally Championship;PC;N/A;Racing;Black Bean Games;0.01;65;7;;;Black Bean Games;RP
+Sherlock Holmes: The Devil's Daughter;PC;2016;Adventure;Bigben Interactive;0.01;65;18;7.3;72;Frogwares;T
+SimCity (2013);PC;2013;Simulation;Electronic Arts;1.42;64;75;2.2;4572;Maxis;E10+
+Farming Simulator 17;PC;2016;Simulation;Focus Home Interactive;0.65;64;5;8;20;Giants Software;E
+Defiance;PC;2013;Shooter;Trion Worlds;0.21;64;40;6.5;661;Trion Worlds;M
+Secret Files 2: Puritas Cordis;PC;2009;Adventure;Deep Silver;0.04;64;14;7.1;17;Fusionsphere Systems, Animation Arts;T
+Pro Cycling Manager 2016;PC;2016;Sports;Focus Home Interactive;0.03;64;6;4.8;5;Cyanide;
+Apache: Air Assault;PC;2010;Simulation;Just Flight;0.03;64;7;7.5;18;Gaijin Entertainment;T
+SimCity;PC;1988;Simulation;Maxis;0.03;64;75;2.2;4572;Maxis;E10+
+Harry Potter and the Half-Blood Prince;PC;2009;Action;Electronic Arts;0.03;64;14;6.1;35;EA Bright Light;E10+
+Mafia III;PC;2016;Action;Take-Two Interactive;0.19;63;29;3.2;881;Hangar 13;M
+Arcania: Gothic 4;PC;2010;Role-Playing;JoWood Productions;0.19;63;25;4.4;307;Spellbound;T
+Gothic 3;PC;2006;Role-Playing;JoWood Productions;0.06;63;39;7.3;519;Piranha Bytes;T
+Front Mission Evolved;PC;2010;Shooter;Square Enix;0.05;63;13;5.1;48;Double Helix Games;T
+Grand Ages: Medieval;PC;2015;Strategy;Kalypso Media;0.05;63;11;5.4;52;Gaming Minds Studios;T
+Harry Potter and the Order of the Phoenix;PC;2007;Action;Electronic Arts;0.04;63;11;7.1;34;EA Games;E10+
+Supreme Ruler: Cold War;PC;2011;Strategy;Paradox Interactive;0.03;63;12;6.8;27;BattleGoat Studios;RP
+Monsters vs. Aliens;PC;2009;Action;Activision;0.03;63;8;6.2;5;Beenox;E10+
+Lost Planet 2;PC;2010;Shooter;Capcom;0.03;63;15;6.3;87;Capcom;T
+SimCity Societies;PC;2007;Simulation;Electronic Arts;0.02;63;27;4.3;95;Tilted Mill;E10+
+Mata Hari: Betrayal is only a Kiss Away;PC;2008;Adventure;DTP Entertainment;0.02;63;11;;;DTP Entertainment;T
+WorldShift;PC;2009;Strategy;Playlogic Game Factory;0.02;63;9;8.1;8;Black Sea Studios;T
+James Bond 007: Blood Stone;PC;2010;Shooter;Activision;0.02;63;17;7.1;72;Bizarre Creations;T
+Imperium Romanum;PC;2008;Strategy;Kalypso Media;0.02;63;19;7.5;24;Haemimont;E10+
+Clive Barker's Jericho;PC;2007;Shooter;Codemasters;0.01;63;25;7.5;218;Mercury Steam, Alchemic Productions;M
+15 Days;PC;2009;Adventure;DTP Entertainment;0.01;63;6;5.8;8;DTP Entertainment;
+Silent Hunter 5: Battle of the Atlantic;PC;2010;Simulation;Ubisoft;0.25;62;26;3.5;104;Ubisoft Romania;T
+Combat Mission: Shock Force;PC;2007;Strategy;Paradox Interactive;0.03;62;15;3.3;86;Big Time Software;T
+F1 Race Stars;PC;2012;Racing;Codemasters;0.02;62;8;5.4;46;Codemasters;E
+Spider-Man 3;PC;2007;Platform;Activision;0.02;62;16;7.1;29;Beenox;T
+NHL 09;PC;2008;Sports;Electronic Arts;0.02;62;6;4.1;30;EA Canada;E10+
+Contrast;PC;2013;Platform;Focus Home Interactive;0.01;62;24;7.7;169;Compulsion Games;T
+Ship Simulator 2008;PC;2007;Simulation;Lighthouse Interactive;0.01;62;9;6.6;8;VSTEP;E
+F1 2014;PC;2014;Racing;Codemasters;0.1;61;20;4.8;65;Codemasters Birmingham;E
+Emergency 2012;PC;2010;Simulation;Deep Silver;0.07;61;9;6.2;12;ValuSoft;T
+Dead Island: Riptide;PC;N/A;Action;Deep Silver;0.07;61;35;6;441;Techland;M
+Cities XL 2012;PC;2011;Strategy;Focus Home Interactive;0.07;61;18;5.6;95;Monte Cristo Multimedia;E
+F1 2015;PC;2015;Racing;Codemasters;0.05;61;13;3.6;63;Codemasters;E
+Hunted: The Demon's Forge;PC;2011;Action;Bethesda Softworks;0.05;61;21;6.6;127;InXile Entertainment;M
+Venetica;PC;2009;Role-Playing;DTP Entertainment;0.05;61;17;6.8;51;Deck 13;T
+Lost Planet 3;PC;2013;Shooter;Capcom;0.04;61;17;6.2;210;Spark Unlimited;T
+F.E.A.R. Perseus Mandate;PC;2007;Shooter;Vivendi Games;0.01;61;27;7.3;106;TimeGate Studios;M
+Juiced 2: Hot Import Nights;PC;2007;Racing;THQ;0.01;61;6;5;42;Juice Games;T
+Breach;PC;2011;Shooter;Destineer;0.01;61;12;5.8;43;Atomic Games;T
+IL-2 Sturmovik: Cliffs of Dover;PC;2011;Simulation;Ubisoft;0.05;60;13;7.1;114;1C: Maddox Games;T
+Off-Road Drive;PC;2011;Racing;1C Company;0.04;60;10;6.4;17;Avalon Style;
+STORM: Frontline Nation;PC;2011;Strategy;Unknown;0.01;60;12;7.2;13;SimBin;E10+
+Murdered: Soul Suspect;PC;2014;Action;Square Enix;0.05;59;22;7.4;379;Airtight Games;M
+Alter Ego;PC;1985;Simulation;Activision;0.03;59;9;5.8;19;Viva Media, Viva Media, LLC;T
+Star Wars: The Force Unleashed II;PC;2010;Action;LucasArts;0.03;59;14;5.8;162;LucasArts;T
+Doom 3 BFG Edition;PC;2012;Shooter;Bethesda Softworks;0.03;59;12;5.3;210;id Software;M
+Maximum Capacity: Hotel Giant;PC;2002;Strategy;JoWood Productions;0.02;59;11;7.7;9;JoWooD Entertainment AG;T
+Inversion;PC;N/A;Shooter;Namco Bandai Games;0.01;59;6;6.7;107;Saber Interactive;M
+Game of Thrones;PC;2012;Role-Playing;Focus Home Interactive;0.08;58;23;6.5;345;Cyanide, Cyanide Studios;M
+Clockwork Empires;PC;N/A;Strategy;Unknown;0.04;58;7;3.8;5;Gaslamp Games;RP
+Castlevania: Lords of Shadow 2;PC;2014;Action;Konami Digital Entertainment;0.04;58;16;7.7;498;Mercury Steam;M
+Hotel Giant 2;PC;2008;Strategy;JoWood Productions;0.03;58;7;2.5;19;Enlight Software;E
+Wall-E;PC;2008;Platform;THQ;0.02;58;6;6.8;17;Heavy Iron Studios;E
+Rayman Raving Rabbids;PC;2006;Misc;Ubisoft;0.01;58;6;7.6;31;Ubisoft Bulgaria;E
+Conflict: Denied Ops;PC;2008;Shooter;Eidos Interactive;0.01;58;18;4.8;54;Pivotal Games;M
+Madagascar: Escape 2 Africa;PC;2008;Action;Activision;0.01;58;6;8;4;Aspyr;E10+
+The First Templar;PC;2011;Action;Kalypso Media;0.08;57;19;5.8;60;Haemimont;T
+TRON: Evolution;PC;2010;Action;Disney Interactive Studios;0.07;57;11;6;25;Propaganda Games;T
+Airline Tycoon 2;PC;2011;Simulation;Kalypso Media;0.05;57;4;5.5;30;Kalypso;E
+The Lord of the Rings: Conquest;PC;2009;Action;Electronic Arts;0.02;57;24;6.7;42;Pandemic Studios;T
+Legend: Hand of God;PC;2007;Role-Playing;DTP Entertainment;0.02;57;9;5.8;19;Master Creating;M
+Sacred 3;PC;2014;Role-Playing;Deep Silver;0.02;57;47;1.4;544;Deep Silver;M
+Dark Void;PC;2010;Action;Capcom;0.02;57;22;5.1;67;Airtight Games;T
+Stronghold Legends;PC;2006;Strategy;Take-Two Interactive;0.02;57;19;7.2;44;FireFly Studios;T
+Spider-Man: Friend or Foe;PC;2007;Action;Activision;0.01;57;9;5.3;11;Beenox;E10+
+APB Reloaded;PC;2011;Role-Playing;Iceberg Interactive;0.04;56;12;5.7;269;Reloaded Productions, Reloaded Games Inc.;M
+Disciples III: Renaissance;PC;2010;Strategy;Kalypso Media;0.02;56;36;5.4;105;Akella;T
+Star Trek: Legacy;PC;2006;Simulation;Ubisoft;0.02;56;25;4;35;Mad Doc Software;E10+
+The Technomancer;PC;2016;Role-Playing;Focus Home Interactive;0.01;56;34;6.8;149;Spidersoft, Spiders;M
+Medal of Honor: Warfighter;PC;2012;Action;Electronic Arts;0.33;55;30;5.4;599;Danger Close;M
+Sniper: Ghost Warrior;PC;2010;Shooter;City Interactive;0.16;55;23;5.5;267;City Interactive;M
+The Cursed Crusade;PC;2011;Action;DTP Entertainment;0.03;55;7;6;33;Kylotonn;M
+SAW;PC;2009;Action;Konami Digital Entertainment;0.02;55;6;6;31;Zombie Studios;M
+Alone in the Dark;PC;2008;Adventure;Atari;0.01;55;19;5.7;148;Eden Studios;M
+Duke Nukem Forever;PC;2011;Shooter;Take-Two Interactive;0.41;54;48;5.7;1183;Gearbox Software, 3D Realms;M
+Create;PC;2010;Action;Electronic Arts;0.06;54;7;6.8;9;EA Bright Light;E
+Homefront: The Revolution;PC;2016;Shooter;Deep Silver;0.04;54;48;3.5;284;Deep Silver Dambuster Studios;M
+Captain Morgane and the Golden Turtle;PC;2012;Adventure;Reef Entertainment;0.03;54;6;6.2;11;Wizarbox;
+Gobliiins 4;PC;2009;Adventure;Kalypso Media;0.01;54;13;;;Societe Pollene;
+A Game of Thrones: Genesis;PC;2011;Strategy;Focus Home Interactive;0.03;53;40;4;110;Cyanide;
+Sniper: Ghost Warrior 2;PC;2013;Shooter;City Interactive;0.08;52;24;5.8;320;City Interactive;M
+Spider-Man: Web of Shadows;PC;2008;Action;Activision;0.02;52;11;7.8;57;Treyarch, Shaba Games;T
+Lost: Via Domus;PC;2008;Action;Ubisoft;0.02;52;22;6;38;Ubisoft Montreal;T
+Call of Juarez: The Cartel;PC;2011;Shooter;Ubisoft;0.11;51;12;3.3;126;Ubisoft;M
+The Haunted: Hell's Reach;PC;2011;Shooter;Visco;0.02;51;8;7.6;47;ValuSoft;M
+Hospital Tycoon;PC;2007;Strategy;Codemasters;0.01;51;8;3.8;29;Big Red Software;E10+
+Empire Earth III;PC;2007;Strategy;Vivendi Games;0.04;50;40;2.8;53;Mad Doc Software;T
+Trapped Dead;PC;2011;Strategy;Iceberg Interactive;0.02;50;14;4.7;57;Headup Games, Crenetic Studios;
+Legendary;PC;2008;Shooter;Atari;0.02;50;23;6.6;104;Spark Unlimited;M
+Ship Simulator Extremes;PC;2010;Simulation;Paradox Interactive;0.05;49;5;6.2;27;VSTEP;E
+Resident Evil: Operation Raccoon City;PC;2012;Action;Capcom;0.04;48;8;3.8;188;Slant Six;M
+JASF: Jane's Advanced Strike Fighters;PC;2011;Simulation;Deep Silver;0.04;48;4;3.1;14;Trickstar Games;T
+Stronghold 3;PC;2011;Strategy;N/A;0.16;47;29;3;350;FireFly Studios;T
+CSI: Fatal Conspiracy;PC;2010;Adventure;Ubisoft;0.04;47;5;5.5;6;Telltale Games;M
+Bus Simulator 16;PC;2016;Simulation;Astragon;0.03;46;8;6.1;18;Still Alive Studios;
+Star Wars The Clone Wars: Republic Heroes;PC;2009;Action;LucasArts;0.03;46;9;4.7;46;LucasArts, Krome Studios;T
+Starship Troopers;PC;2005;Shooter;Empire Interactive;0.02;46;18;6.1;29;Strangelite;M
+Aliens: Colonial Marines;PC;2013;Shooter;Sega;0.18;45;40;3.5;1156;Gearbox Software;M
+Stronghold Crusader Extreme;PC;2008;Strategy;Gamecock;0.02;45;11;6.8;45;FireFly Studios;T
+Harry Potter and the Deathly Hallows - Part 2;PC;2011;Action;Electronic Arts;0.1;43;12;5;56;;
+RollerCoaster Tycoon World;PC;2016;Simulation;Atari;0.02;43;7;2.4;31;Nvizzio Creations;E
+Stormrise;PC;2009;Strategy;Sega;0.02;42;15;4.9;22;Creative Assembly;M
+Raven Squad: Operation Hidden Dagger;PC;2009;Shooter;Evolved Games;0.02;39;11;3.1;61;Atomic Motion;T
+Harry Potter and the Deathly Hallows - Part 1;PC;2010;Action;Electronic Arts;0.1;37;5;4.1;33;EA Bright Light;T
+Sniper: Art of Victory;PC;2008;Shooter;City Interactive;0.49;36;7;3.6;16;City Interactive;M
+Grey's Anatomy: The Video Game;PC;2009;Adventure;Ubisoft;0.02;36;4;3.9;20;Longtail Studios;T
+X Rebirth;PC;2013;Simulation;Koch Media;0.08;33;24;3.3;1340;Egosoft;T
