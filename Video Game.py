@@ -11,11 +11,11 @@ for line in filehandler:
 filehandler.close()
 data.sort()
 
-shelfFile = shelve.open('Video_game')
+shelfFile = shelve.open('Video_game', 'w')
 shelfFile['video_game'] = data
 shelfFile.close()
 
 shelfFile = shelve.open('Video_game', 'r')
-for vg in 'video_game':
-    print(repr(shelfFile[vg]))
+for key in shelfFile.keys():
+    print(shelfFile[key])
 shelfFile.close()

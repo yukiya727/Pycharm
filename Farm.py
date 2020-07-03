@@ -1,32 +1,44 @@
-class Animal():
-    def __init__(self.name.initialLocation):
-    self.name = name
-    if isinstance(initialLocation,str):
-        self.locationA =  initialLocation
-    elif isinstance(initialLocation, Location):
-        self.initialLocation.LocationName
-
-class Dog(Animal):
-    def __init__(self, name, angry = False):
-        Animal.__init__(self, name, "Entrance")
-        self.angry = angry
-
 class Location():
     def __init__(self, locationName):
         self.locationName = locationName
 
 
 class Farm():
-    def __int__(self, animalslist):
-        self.__animallist = animalslist
-        self.guardianDogs = [Dog("guardian",True) for i in range(2)]
+    def __init__(self, animalsList):
+        self.__animalsList = animalsList
+        self.guardianDogs = [Dog("guardian", True) for count in range(2)]
 
-    def __str__(self):
-        return "The farm has" + self.guardiandogs
+    def getAnimalsList(self):
+        return self.__animalsList
 
     def __erase(self):
-        self.animallist = []
+        print("erasing all animals")
+        self.__animalsList = []
+
+    def __includeDogs(self):
+        print("including guardian dogs")
+        self.__animalsList += self.guardianDogs
+        self.guardianDogs = []
+
+    def __str__(self):
+        returnString = "\nAnimals in the farm:\n"
+        for animal in self.__animalsList:
+            returnString += str(animal)
+            returnString += "\n"
+            returnString += "Guardian dogs:\n"
+        for dog in self.guardianDogs:
+            returnString += str(dog)
+            returnString += "\n"
+        return returnString
 
 
-d = Dog("Bobby")
-print(d.name)
+f = Farm(chickenlist)
+# print(f.__animalsList)
+print(f.getAnimalsList())
+print(f.guardianDogs)
+print(f)
+f._Farm__includeDogs()
+print(f)
+f._Farm__erase()
+print(f)
+f.__erase()
