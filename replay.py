@@ -47,6 +47,8 @@ for step in steps:
             startcount = True
         continue
 
+
+
     if new_step[0] == 'MouseMove' and id != 0:
         if new_steps[id-1][0] == 'MouseMove':
             if float(new_step[-1]) - t_last < 0.1:
