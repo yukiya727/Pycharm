@@ -2,61 +2,10 @@ import threading
 import time
 import os
 import sys
-from pynput import mouse
-from pynput import keyboard
+import keyboard
+import pynput.mouse
+import pynput.keyboard
 
-
-# import mouse
-# import keyboard
-
-# mouse_events = []
-# keyboard_events = []
-#
-# keyboard.wait(".")
-#
-# mouse.hook(mouse_events.append)
-# keyboard.hook_key(keyboard_events.append)
-# # keyboard.start_recording()
-#
-# keyboard.wait(".")
-#
-# mouse.unhook(mouse_events.append)
-# keyboard.unhook(keyboard_events.append)
-#
-# # keyboard_events = keyboard.stop_recording()
-#
-# for key in keyboard_events:
-#     temp = str(key)
-#     temp = temp.replace("("," ")
-#     temp = temp.replace(")", "")
-#     res = temp.split(" ")
-#     print(res)
-#     # print("\n")
-#
-# for key in mouse_events:
-#     temp = str(key)
-#     if temp.find("MoveEvent") != -1:
-#         continue
-#     temp = temp.replace("("," ")
-#     temp = temp.replace(")", "")
-#     res = temp.split(" ")
-#     print(res)
-#     # print("\n")
-
-# Keyboard threadings:
-
-# k_thread = threading.Thread(target = lambda :keyboard.play(keyboard_events))
-# k_thread.start()
-
-# Mouse threadings:
-
-# m_thread = threading.Thread(target = lambda :mouse.play(mouse_events))
-# m_thread.start()
-
-# waiting for both threadings to be completed
-
-# k_thread.join()
-# m_thread.join()
 
 def on_move(x, y):
     global file_path
@@ -75,9 +24,6 @@ def on_click(x, y, button, pressed):
         f.write('{0},{1},{2},{3},{4}'.format(
             'MousePressed' if pressed else 'MouseReleased', button, x, y, time.time()))
         f.write('\n')
-    # if not pressed:
-    #     # Stop listener
-    #     return False
 
 
 def on_scroll(x, y, dx, dy):
@@ -110,6 +56,7 @@ def on_press(key):
 
 def on_release(key):
     global file_path
+
     print('KeyReleased,{0},{1}'.format(
         key, time.time()))
     with open(file_path, 'a') as f:
@@ -117,15 +64,17 @@ def on_release(key):
             key, time.time()))
         f.write('\n')
 
-    if key == keyboard.Key.f10:
+    if key == pynput.keyboard.Key.f10:
         with open(file_path, 'a') as f:
-            f.write('done')
+            f.write('done,{0}'.format(time.time()))
             f.write('\n')
         # Stop listener
+        print(time.time()-t)
+        pynput.mouse.Listener.stop(m_listener)
         return False
-    if key == keyboard.Key.f9:
+    if key == pynput.keyboard.Key.f8:
         with open(file_path, 'a') as f:
-            f.write('start')
+            f.write('start,{0}'.format(time.time()))
             f.write('\n')
 
 
@@ -144,13 +93,15 @@ file_name = 'history.txt'
 file_path = os.path.join(dir_path, file_name)
 print(dir_path)
 
-# kl = keyboard.Listener(target = on_press, arg =(key=None))
+print("Please press 'F8' key to start recording")
+keyboard.wait("F8")
+t = time.time()
 
-with keyboard.Listener(
+with pynput.keyboard.Listener(
         on_press=on_press,
         on_release=on_release
         ) as k_listener, \
-        mouse.Listener(
+        pynput.mouse.Listener(
         on_move=on_move,
         on_click=on_click,
         on_scroll=on_scroll) as m_listener:
