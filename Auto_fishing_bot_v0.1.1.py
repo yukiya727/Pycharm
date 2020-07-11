@@ -1,27 +1,24 @@
 import threading
 import keyboard
 import time
-
-
-
-def work(id, stop):
-    while True:
-        time.sleep(0.5)
-        print("I am thread doing something")
-        if stop():
-            break
-    print("Terminated")
+import pyautogui
+import autoit
+import FSAFv02b
 
 
 def main():
     stop_threads = False
-    tmp = threading.Thread(target=work, args=(1, lambda: stop_threads))
-    tmp.start()
-
+    print("Press '.' to start fishing")
     keyboard.wait(".")
-    print("done")
+    fishing = threading.Thread(target=FSAFv02b.main, args = (1, lambda: stop_threads))
+    fishing.start()
+    print("///////////////")
+    print("Press '.' again to stop fishing")
+    keyboard.wait(".")
     stop_threads = True
-    tmp.join()
+    fishing.join()
+
 
 if __name__ == '__main__':
-    main()
+    while True:
+        main()
