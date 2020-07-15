@@ -1,4 +1,6 @@
 import random
+import time
+import threading
 
 
 class Card():
@@ -48,18 +50,43 @@ class Deck():
         del self.cards[0]
         return card
 
+    def checkDeck(self):
+        if len(self.cards) == 0:
+            return False
+        return True
+
     def newDeck(self):
         self.cards = [Card(s, v) for s in self.suits for v in self.values]
 
 
-c = Card("Hearts", "A")
-print(c)
-c2 = Card("Clubs", "A")
-print(c2 < c)
+# player_deck = [[''] for i in range(4)]
+
+
+def player_cards(id, mode):
+    global d
+    player_deck = []
+    st = 0.0
+    while d.checkDeck():
+        if st != 0.0:
+            st = 0.01 - st
+            time.sleep(st)
+        player_deck.append(d.getCard())
+        st = random.uniform(0, 0.01)
+        time.sleep(st)
+    print("Player {0}'s deck is:\n{1}".format(id+1, player_deck))
+
 
 d = Deck()
 d.shuffle()
-print(d.getCard())
-print(d.getCard())
-d.newDeck()
-print(d.getCard())
+players = []
+
+for i in range(4):
+    player = threading.Thread(target=player_cards, args=(i, False))
+    player.start()
+    players.append(player)
+for p in players:
+    p.join()
+
+for i in range(4):
+    print("Player {0}'s deck is:\n".format(i + 1))
+    for
