@@ -1,4 +1,3 @@
-# -*- coding: cp950 -*-
 import time
 import os
 import sys
