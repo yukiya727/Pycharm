@@ -236,6 +236,7 @@ def main():
     play(l1, 1, t1, True)
     play(l2, 1, t2, True)
     play(l3, 1, t3, True)
-    autoit.mouse_wheel("down", 30)
+    for _ in range(30):
+        autoit.mouse_wheel("down", 30)
     autoit.mouse_click_drag(950, 470, 950, 475, button="right", speed=100)
     autoit.mouse_click_drag(950, 475, 965, 475, button="right", speed=50)

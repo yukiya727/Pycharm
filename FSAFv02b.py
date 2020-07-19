@@ -79,7 +79,8 @@ def main(id, stop):
     global hook, fish, attempt, delay, log, t_last, r_spd
 
     while True:
-        autoit.mouse_wheel("up", 30)
+        for _ in range(30):
+            autoit.mouse_wheel("up", 1)
         replay.main()
         # First hook throwing
         x, y = (965, 475)
