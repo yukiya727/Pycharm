@@ -1,7 +1,6 @@
 import threading
 import keyboard
 import time
-import pyautogui
 import autoit
 import FSAFv02b
 

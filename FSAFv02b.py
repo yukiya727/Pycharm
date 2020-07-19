@@ -1,7 +1,5 @@
 import keyboard
 import time
-import pyautogui
-import pydirectinput
 import autoit
 import pytesseract
 import cv2
@@ -37,7 +35,6 @@ def wait_for_fish():
         for x in range(x1, x2):
             color = image.getpixel((x, y))
             if color == (68, 252, 234):
-                # print("Fish on Hook!") __legacy warning__
                 autoit.mouse_click('left')
                 image = ImageGrab.grab()
                 fish = True
@@ -82,9 +79,11 @@ def main(id, stop):
     global hook, fish, attempt, delay, log, t_last, r_spd
 
     while True:
+        autoit.mouse_wheel("up", 30)
+        replay.main()
         # First hook throwing
-        x, y = (1285, 400)
-        bagsize = 12 - 1
+        x, y = (965, 475)
+        bagsize = 300 - 3
 
         time.sleep(delay)
         throw_hook(x, y)
@@ -93,8 +92,10 @@ def main(id, stop):
             capture_image()
             if not fish:
                 wait_for_fish()
-                if time.time() - w_timer >= 10:
-                    throw_hook(1285, 400)  # 1580, 660
+                if time.time() - w_timer > 10:
+                    if time.time() - w_timer > 60:
+                        break
+                    throw_hook(965, 475)  # 1580, 660
             if fish:
                 catching_fish()
                 if image.getpixel((1092, 758)) != (95, 255, 93) and attempt:  # 1585, 1015
@@ -103,14 +104,13 @@ def main(id, stop):
                     #     stop = True
                     #     break
                     time.sleep(delay)
-                    throw_hook(1285, 400)  # *x y
+                    throw_hook(965, 475)  # *x y
                     fish = False
                     bagsize -= 1
                     w_timer = time.time()
                     continue
             if stop():
                 break
-        # replay.play(log, r_spd, t_last)
         if stop():
             break
     print("Core program halted")

@@ -5,13 +5,14 @@ import keyboard
 import autoit
 from ctypes import windll
 
-timeBeginPeriod = windll.winmm.timeBeginPeriod #new
-timeBeginPeriod(1) #new
+timeBeginPeriod = windll.winmm.timeBeginPeriod
+timeBeginPeriod(1)
+
 
 def openfile(dname, fname):
     global steps
     os.chdir(os.path.dirname(os.path.realpath(__file__)))
-    directory = 'mouse_recorder'
+    directory = 'recorder_files'
     try:
         session_name = dname
     except:
@@ -22,11 +23,9 @@ def openfile(dname, fname):
     file_name = fname
     file_path = os.path.join(dir_path, file_name)
 
-    # print(dir_path)
     # open the recording file
     with open(file_path, 'r') as f:
         steps = f.readlines()
-
 
 
 SpecialKeys = [
@@ -56,8 +55,6 @@ def Keystring(str):
     return str
 
 
-
-
 def load_replay():
     global k
 
@@ -70,7 +67,7 @@ def load_replay():
     startcount = False
     t_last = 0.0
     t_temp = 0.0
-    lag_limit = 240
+    lag_limit = 144
     id = 0
 
     lag_limit = 1 / lag_limit
@@ -131,89 +128,114 @@ def load_replay():
         new_steps.append(new_step)
         pause = False
         id += 1
-    for item in new_steps:
-        print(item)
+    # for item in new_steps:
+    #     print(item)
     print("Recorded objects:", len(new_steps))
     # print(new_steps[0][-1])
     return new_steps, float(new_steps[0][-1])
 
 
 def play(log, speed, tlast, debug_mode):
-    # print("Ready, press '.' to start")
-    # keyboard.wait(".")
     st = 0.0
-    stt= 0.0
+    tlast -= 0.01
+
     if debug_mode:
         timer = time.perf_counter()
-    temp = time.perf_counter()
-    tlast -= 0.01
+    offset_timer = time.perf_counter()
+
     for step in log:
         if step[0] == 'mousemove':
-            t_offset = time.perf_counter() - temp -st
+            t_offset = time.perf_counter() - offset_timer - st
             # print(t_offset)
             st = (float(step[-1]) - tlast - t_offset) / speed
             # print(st)
-            temp = time.perf_counter()
-            time.sleep(st)
-            stt += t_offset
+            offset_timer = time.perf_counter()
+            if st > 0:
+                time.sleep(st)
             autoit.mouse_move(int(step[1]), int(step[2]), 0)
             tlast = float(step[-1])
             continue
 
         if step[0] == 'mousepressed':
-            t_offset = time.perf_counter() - t_offset
-            time.sleep((float(step[-1]) - tlast - t_offset) / speed)
+            t_offset = time.perf_counter() - offset_timer - st
+            st = (float(step[-1]) - tlast - t_offset) / speed
+            offset_timer = time.perf_counter()
+            if st < 0.0:
+                time.sleep(st)
             autoit.mouse_move(int(step[2]), int(step[3]), 0)
             autoit.mouse_down(step[1])
             tlast = float(step[-1])
-            t_offset = time.perf_counter()
             continue
 
         if step[0] == 'mousereleased':
-            t_offset = time.perf_counter() - t_offset
-            time.sleep((float(step[-1]) - tlast - t_offset) / speed)
+            t_offset = time.perf_counter() - offset_timer - st
+            st = (float(step[-1]) - tlast - t_offset) / speed
+            offset_timer = time.perf_counter()
+            if st < 0.0:
+                time.sleep(st)
             autoit.mouse_move(int(step[2]), int(step[3]), 0)
             autoit.mouse_up(step[1])
             tlast = float(step[-1])
-            t_offset = time.perf_counter()
             continue
 
         if step[0] == 'mousescrolled':
-            t_offset = time.perf_counter() - t_offset
-            time.sleep((float(step[-1]) - tlast - t_offset) / speed)
+            t_offset = time.perf_counter() - offset_timer - st
+            st = (float(step[-1]) - tlast - t_offset) / speed
+            offset_timer = time.perf_counter()
+            if st > 0:
+                time.sleep(st)
             autoit.mouse_wheel(int(step[2]), int(step[3]), 0)
             autoit.mouse_up(step[1])
             tlast = float(step[-1])
-            t_offset = time.perf_counter()
             continue
 
         if step[0] == 'keypressed':
-            t_offset = time.perf_counter() - t_offset
-            time.sleep((float(step[-1]) - tlast - t_offset) / speed)
+            t_offset = time.perf_counter() - offset_timer - st
+            # print(t_offset)
+            st = (float(step[-1]) - tlast - t_offset) / speed
+            offset_timer = time.perf_counter()
+            if st > 0:
+                time.sleep(st)
             autoit.send(step[1])
             tlast = float(step[-1])
-            t_offset = time.perf_counter()
             continue
 
         if step[0] == 'keyreleased':
-            t_offset = time.perf_counter() - t_offset
-            time.sleep((float(step[-1]) - tlast - t_offset) / speed)
+            t_offset = time.perf_counter() - offset_timer - st
+            st = (float(step[-1]) - tlast - t_offset) / speed
+            offset_timer = time.perf_counter()
+            if st > 0:
+                time.sleep(st)
             autoit.send(step[1])
             tlast = float(step[-1])
-            t_offset = time.perf_counter()
             continue
 
         if step[0] == 'done':
             print('End playing')
             if debug_mode:
                 print(time.perf_counter() - timer)
-                print(stt)
             pass
 
-openfile("pynput_record", "history0.txt")
-l, t = load_replay()
-print("Ready, press '.' to start")
-keyboard.wait(".")
-# while True:
-play(l, 1, t, True)
 
+# This makes the program asking for the file name every single time you open the program
+# file_name = input("Please specify the text file you want to replay from:")
+# file_name = "history" + file_name + ".txt"
+# Alternatively you can add the line below to replace the input command
+def main():
+    file_name = "history.txt"
+    openfile("pynput_record", file_name)
+    l1, t1 = load_replay()
+    file_name = "history1.txt"
+    openfile("pynput_record", file_name)
+    l2, t2 = load_replay()
+    file_name = "history2.txt"
+    openfile("pynput_record", file_name)
+    l3, t3 = load_replay()
+    # print("Ready, press '.' to start")
+    # keyboard.wait(".")
+    play(l1, 1, t1, True)
+    play(l2, 1, t2, True)
+    play(l3, 1, t3, True)
+    autoit.mouse_wheel("down", 30)
+    autoit.mouse_click_drag(950, 470, 950, 475, button="right", speed=100)
+    autoit.mouse_click_drag(950, 475, 965, 475, button="right", speed=50)
